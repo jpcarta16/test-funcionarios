@@ -1,0 +1,2656 @@
+[
+    {
+        "id": 1,
+        "title": "TEST OEP 2020-2021-2022 - B Compressed",
+        "topics": [
+            {
+                "title": "Tema 1",
+                "questions": [
+                    {
+                        "question": "Cuántos títulos componen la Constitución Española:",
+                        "options": [
+                            "a) Un título preliminar y nueve más.",
+                            "b) Nueve títulos.",
+                            "c) Un título preliminar y diez más.",
+                            "d) Diez títulos."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Según la Constitución española, los valores superiores del ordenamiento jurídico español son:",
+                        "options": [
+                            "a) Los derechos fundamentales",
+                            "b) La libertad, la justicia, la igualdad y el pluralismo político",
+                            "c) La legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos",
+                            "d) La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "La Declaración Universal de los Derechos Humanos fue aprobada por:",
+                        "options": [
+                            "a) La Secretaría General de la Organización de las Naciones Unidas el 10 de octubre de 1947.",
+                            "b) La Organización de las Naciones Unidas el 10 de diciembre de 1947.",
+                            "c) El Consejo de Europa el 10 de octubre de 1948.",
+                            "d) La Asamblea General de la Organización de las Naciones Unidas el 10 de diciembre de 1948."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Según el artículo 14 de la Constitución española:",
+                        "options": [
+                            "a) Todos somos iguales ante la Ley.",
+                            "b) Los españoles y los extranjeros son iguales ante la Ley.",
+                            "c) Los españoles son iguales ante la Ley.",
+                            "d) Los ciudadanos son iguales ante la Ley."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Los principios que, según el artículo 31.1 de la Constitución Española, deben inspirar el sistema tributario son…",
+                        "options": [
+                            "a) Suficiencia, igualdad y proporcionalidad",
+                            "b) Suficiencia, progresividad y eficiencia",
+                            "c) Igualdad, progresividad y no tener alcance confiscatorio",
+                            "d) Ninguna de las respuestas anteriores es correcta"
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Qué tipo de norma regula la institución del Defensor del Pueblo…",
+                        "options": [
+                            "a) Real Decreto c) Ley Orgánica",
+                            "b) Ley Ordinaria d) Decreto-Ley"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Según la Constitución ¿puede el Príncipe Heredero pasar a ejercer la Regencia?",
+                        "options": [
+                            "a) No, en ningún caso.",
+                            "b) Sí, en cualquier caso.",
+                            "c) Cuando el Rey le haya nombrado tutor.",
+                            "d) Sólo si es mayor de edad en el momento en que se produzca el llamamiento."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "De estas funciones que se enumeran a continuación, cuál de ellas corresponde a la Corona:",
+                        "options": [
+                            "a) Arbitrar y moderar el funcionamiento de las instituciones",
+                            "b) Dirigir la política interior y exterior",
+                            "c) Dirigir la defensa del estado",
+                            "d) Elegir al Presidente del Gobierno"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Según la Constitución, en Ceuta se eligen, por sufragio universal, libre, igual, directo y secreto",
+                        "options": [
+                            "a) Cuatro diputados c) Dos diputados",
+                            "b) Dos senadores d) Un senador"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Según se establece en la Constitución, es un cargo incompatible con el ejercicio de la función parlamentaria, ser:",
+                        "options": [
+                            "a) Miembro de las Juntas Electorales.",
+                            "b) Abogado.",
+                            "c) Ministro.",
+                            "d) Presidente del Gobierno."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Según la Constitución, el mandato de los Diputados y Senadores termina:",
+                        "options": [
+                            "a) Cuatro años después de su elección, en todo caso.",
+                            "b) Cuando el Presidente de la Cámara respectiva los cese.",
+                            "c) En el día de disolución de la respectiva Cámara.",
+                            "d) En el día de constitución de las nuevas Cámaras."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Según la Constitución, la moción de censura al Gobierno deberá ser propuesta por:",
+                        "options": [
+                            "a) El Presidente del Gobierno",
+                            "b) La décima parte de los senadores",
+                            "c) La mayoría absoluta del congreso",
+                            "d) La décima parte de los diputados"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Según la Constitución, no es materia reservada a la ley orgánica:",
+                        "options": [
+                            "a) Los estados de alarma, excepción y de sitio.",
+                            "b) Las bases de la organización militar.",
+                            "c) El funcionamiento del Tribunal Constitucional.",
+                            "d) El desarrollo de la demarcación y planta judicial."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Establece la Constitución que el Decreto-Ley debe ser convalidado por:",
+                        "options": [
+                            "a) El Congreso, en el plazo de 30 días.",
+                            "b) El Congreso, en el plazo de 20 días.",
+                            "c) El Congreso y el Senado, en el plazo de 30 días.",
+                            "d) El Congreso y el Senado, en el plazo de 20 días."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "La delegación legislativa habrá de otorgarse mediante una ley de bases cuando su objeto sea:",
+                        "options": [
+                            "a) Refundir varios textos legales en uno solo",
+                            "b) La formación de textos articulados",
+                            "c) La modificación de leyes",
+                            "d) La aprobación de una ley orgánica"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Aprobado un Proyecto de Ley o un Proyecto de Ley Orgánica por el Congreso de los Diputados, su Presidente dará inmediata cuenta a:",
+                        "options": [
+                            "a) El Consejo de Ministros c) Al Presidente del Gobierno",
+                            "b) Al Presidente del Senado d) Al Rey"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "En la reforma constitucional, en principio, el proyecto de reforma debe ser aprobado por:",
+                        "options": [
+                            "a) El Congreso y el Senado por mayoría de dos tercios",
+                            "b) El Congreso y el Senado por mayoría de tres quintos",
+                            "c) Ambas Cámaras, por mayoría absoluta",
+                            "d) Una Comisión Paritaria"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "El Presidente del Tribunal Constitucional será nombrado:",
+                        "options": [
+                            "a) Por un periodo de seis años.",
+                            "b) A propuesta del mismo Tribunal en pleno, por el Rey.",
+                            "c) Por un período de nueve años.",
+                            "d) Por el Rey, a propuesta del Pleno del Consejo General del Poder Judicial."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Elegir y remover al Secretario general del Tribunal Constitucional y, en su caso, al Secretario general adjunto, es una función que corresponde a:",
+                        "options": [
+                            "a) al Pleno del Tribunal Constitucional",
+                            "b) al Presidente del Tribunal Constitucional",
+                            "c) al Ministro de Justicia",
+                            "d) al Presidente del Tribunal Supremo y del Consejo General del Poder Judicial"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "¿En qué plazo se interpondrá, con carácter general, el recurso de inconstitucionalidad contra una ley?",
+                        "options": [
+                            "a) 9 meses desde su publicación.",
+                            "b) 9 meses desde su promulgación.",
+                            "c) 3 meses desde su aprobación.",
+                            "d) 3 meses desde su publicación."
+                        ],
+                        "correctAnswer": "d"
+                    }
+                ]
+            },
+            {
+                "title": "Tema 2",
+                "questions": [
+                    {
+                        "question": "El principio de igualdad supone que todos tienen derecho a que la ley les trate por igual y prohíbe la discriminación, considerándose como discriminación:",
+                        "options": [
+                            "a) Tratar desigual situaciones de hecho que son iguales.",
+                            "b) Tratar igual situaciones de hecho que son iguales",
+                            "c) Tratar desigual situaciones de hecho que son desiguales",
+                            "d) Todo comportamiento que trate desigual situaciones de hecho de los españoles."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "El ámbito de aplicación de las obligaciones establecidas en la Ley 3/2007 para la igualdad efectiva de mujeres y hombres, es para:",
+                        "options": [
+                            "a) Toda persona física o jurídica, que se encuentre o actúe en territorio español y sea únicamente de nacionalidad española.",
+                            "b) Toda persona física o jurídica, que se encuentre o actúe en territorio español y sea únicamente de nacionalidad perteneciente a la UE.",
+                            "c) Toda persona física o jurídica, que se encuentre o actúe en territorio español cualquiera que fuese su nacionalidad.",
+                            "d) Toda persona física o jurídica, que se encuentre o actúe en territorio español y sea únicamente de nacionalidad."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Según la Ley Orgánica 3/2007, para la Igualdad Efectiva de Mujeres y Hombres, cualquier comportamiento realizado en función del sexo de una persona, con el propósito o el efecto de atentar contra su dignidad y de crear un entorno intimidatorio, degradante u ofensivo",
+                        "options": [
+                            "a) es una infracción en el ámbito laboral",
+                            "b) acoso sexual",
+                            "c) acoso por razón de sexo",
+                            "d) discriminación indirecta por razón de sexo"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Según la Ley Orgánica 3/2007, para la Igualdad Efectiva de Mujeres y Hombres, la capacidad y legitimación para intervenir en los procesos civiles, sociales y contencioso-administrativos que versen sobre la defensa del derecho a la igualdad entre hombres y mujeres, corresponde",
+                        "options": [
+                            "a) a cualquier persona física",
+                            "b) a los sindicatos de trabajadores, exclusivamente",
+                            "c) a las personas físicas, solamente",
+                            "d) a las personas físicas y jurídicas con interés legítimo"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Según la Ley Orgánica 3/2007, para la Igualdad Efectiva de Mujeres y Hombres, en los litigios sobre acoso sexual y acoso por razón de sexo",
+                        "options": [
+                            "a) La legitimación corresponderá al Ministerio Fiscal",
+                            "b) Estarán legitimados los sindicatos",
+                            "c) La persona acosada será la única legitimada",
+                            "d) Estarán legitimados los sindicatos y la persona acosada"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "El artículo 15 de la Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres, establece que el principio de igualdad de trato informará la actuación de todos los poderes públicos con carácter:",
+                        "options": [
+                            "a) General. c) Universal.",
+                            "b) Transversal. d) Preferente."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "La publicidad que comporte una conducta discriminatoria de acuerdo la Ley Orgánica 3/2007 para la Igualdad Efectiva de Mujeres y Hombres, se considerará",
+                        "options": [
+                            "a) Discriminación directa",
+                            "b) Discriminación indirecta",
+                            "c) Publicidad ilícita",
+                            "d) Nula y sin efecto"
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Según el artículo 49 de la Ley Orgánica 3/2007, se establecerán medidas de fomento especialmente dirigidas a las pequeñas y medianas empresas para impulsar la adopción voluntaria de planes de igualdad por:",
+                        "options": [
+                            "a) el Gobierno",
+                            "b) las Cortes Generales",
+                            "c) el Defensor del Pueblo",
+                            "d) las Comunidades autónomas"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Según la Ley Orgánica 3/2007, para la Igualdad Efectiva de Mujeres y Hombres, la celebración de contratos de seguros o de servicios financieros afines en los que, al considerar el sexo como factor de cálculo de primas y prestaciones, se generen diferencias en las primas y prestaciones de las personas aseguradas",
+                        "options": [
+                            "a) Están prohibidos",
+                            "b) Son lícitos",
+                            "c) Están permitidos siempre que se beneficie a la mujer frente al hombre",
+                            "d) Son nulos y sin efectos."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "No será necesario que incorporen un informe sobre su impacto por razón de género, cuando se sometan a la aprobación del Consejo de Ministros:",
+                        "options": [
+                            "a) Los proyectos de disposiciones de carácter general",
+                            "b) Los planes de especial relevancia económica y social",
+                            "c) Los planes de especial relevancia cultural y artística",
+                            "d) Todos ellos deben incorporar el informe sobre su impacto por razón de género"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Según el artículo 3.1 de Ley Orgánica 1/2004, de medidas de protección integral contra la violencia de género, para impulsar la consecución de sus objetivos se pondrá en marcha:",
+                        "options": [
+                            "a) Planes territoriales autonómicos de Sensibilización y Prevención de la Violencia de Género.",
+                            "b) Un Plan Nacional de Sensibilización y Prevención de la Violencia de Género.",
+                            "c) Planes supramunicipales de Sensibilización y Prevención de la Violencia",
+                            "d) Programas de ayudas y subvenciones públicas europeas."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Según Ley Orgánica 1/2004, en el ámbito educativo, en el Consejo Escolar del Estado se asegurará la representación de:",
+                        "options": [
+                            "a) La Delegación del Gobierno contra la Violencia de Género",
+                            "b) Instituto de las Mujeres",
+                            "c) Todas las organizaciones que defiendan los intereses de la mujer",
+                            "d) El Observatorio Estatal de Violencia sobre la Mujer."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "La organización de los servicios de asistencia social integral preceptuados en la Ley 1/2004 de Medidas de Protección Integral contra la Violencia de Género, corresponderá a:",
+                        "options": [
+                            "a) Las Comunidades Autónomas and las Corporaciones Locales.",
+                            "b) El Ministerio de Sanidad, Servicios Sociales e Igualdad.",
+                            "c) El Gobierno del Estado.",
+                            "d) La Delegación del Gobierno contra la Violencia de Género."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Según la Ley Orgánica 1/2004, de Medidas de Protección Integral contra la Violencia de Género, las empresas que formalicen contratos de interinidad para sustituir a trabajadoras víctimas de violencia de género que hayan ejercitado su derecho a la movilidad geográfica",
+                        "options": [
+                            "a) tendrán derecho a una bonificación del 100 por 100 de las cuotas empresariales a la Seguridad Social por contingencias comunes, durante seis meses",
+                            "b) tendrán derecho a una bonificación del 75 por 100 de las cuotas empresariales a la Seguridad Social por contingencias comunes, durante todo el período de suspensión de la trabajadora sustituida",
+                            "c) tendrán derecho a una bonificación del 100 por 100 de las cuotas empresariales a la Seguridad Social por contingencias comunes, durante todo el período de suspensión de la trabajadora sustituida",
+                            "d) tendrán derecho a una bonificación del 75 por 100 de las cuotas empresariales a la Seguridad Social por contingencias comunes, durante seis meses"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "El traslado de una trabajadora víctima de violencia de género en distinta localidad para hacer efectiva su protección, lo será por un plazo:",
+                        "options": [
+                            "a) mínima de tres meses. c) máximo de seis meses.",
+                            "b) inicial de entre seis y doce meses. d) de doce meses."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Según el art. 23 de la Ley Orgánica 1/2004, de Medidas de Protección Integral contra la Violencia de Género, las situaciones de violencia que dan lugar al reconocimiento de los derechos laborales y prestaciones de la Seguridad Social en la misma, se acreditarán",
+                        "options": [
+                            "a) mediante cualquier documento público",
+                            "b) con la denuncia ante la Policía Judicial",
+                            "c) solo con la orden de protección a favor de la víctima.",
+                            "d) con informe de los servicios sociales"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "En caso de excedencia por razón de violencia de género, ¿cuál es la duración máxima del periodo de excedencia que establece el artículo 48 de la Ley Orgánica 3/2007?",
+                        "options": [
+                            "a) 6 meses c) 12 meses",
+                            "b) 3 meses d) No se establece un límite de tiempo máximo."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Según la Ley Orgánica 1/2004, de Medidas de Protección Integral contra la Violencia de Género, en caso de que la víctima haya tenido que abandonar su lugar de trabajo para huir de la situación de violencia, ¿qué se considera a efectos laborales?",
+                        "options": [
+                            "a) Baja por enfermedad",
+                            "b) Excedencia forzosa",
+                            "c) Licencia retribuida",
+                            "d) Vacaciones retribuidas."
+                        ],
+                        "correctAnswer": "c"
+                    }
+                ]
+            },
+            {
+                "title": "Tema 3",
+                "questions": [
+                    {
+                        "question": "Una de las siguientes funciones no corresponde al gobierno de acuerdo con el art. 97 de la C.E.",
+                        "options": [
+                            "a) Dirigir la política interior y exterior.",
+                            "b) Ejercer la potestad reglamentaria",
+                            "c) Dirigir la Administración Civil y militar",
+                            "d) El mando supremo de las fuerzas armadas."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Según el art. 2 de la Ley del Gobierno, crear, modificar y suprimir, por Real Decreto, los Departamentos Ministeriales, así como las Secretarías de estado es función que corresponde:",
+                        "options": [
+                            "a) Al Presidente del Gobierno",
+                            "b) Al Consejo de Ministros",
+                            "c) Al Rey",
+                            "d) Al Rey, a propuesta del Consejo de Ministros."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Según el art. 108 de la Constitución …",
+                        "options": [
+                            "a) El Gobierno responde solidariamente de su gestión política ante los tribunales.",
+                            "b) El Gobierno responde solidariamente de su gestión política ante las Cortes Generales.",
+                            "c) El Gobierno responde solidariamente de su gestión política ante el Congreso.",
+                            "d) El Gobierno responde solidariamente de su gestión política ante el Senado."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Si se pretende acusar al Presidente del Gobierno de traición, tal acusación sólo podrá ser planteada por:",
+                        "options": [
+                            "a) el Tribunal Supremo.",
+                            "b) la mayoría absoluta de cualquiera de las Cámaras.",
+                            "c) la cuarta parte de los miembros del Congreso.",
+                            "d) la cuarta parte de los miembros de cualquiera de las Cámaras."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Según el art. 101 de la Constitución, el Gobierno cesará (señalar la incorrecta):",
+                        "options": [
+                            "a) Con la convocatoria de elecciones generales",
+                            "b) Por dimisión del Presidente",
+                            "c) Por fallecimiento del Presidente",
+                            "d) En los casos de pérdida de la confianza parlamentaria previstos en la Constitución"
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Cuánto podrá durar el estado de excepción:",
+                        "options": [
+                            "a) Un máximo de 30 días prorrogables por otros tantos.",
+                            "b) Un máximo de 15 días prorrogables por otros 15.",
+                            "c) Un máximo de 15 días prorrogables con autorización del Congreso de los Diputados.",
+                            "d) Un máximo de 15 días prorrogables dando cuenta al Congreso de los Diputados."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "¿Cuál de los siguientes principios no rige la actuación de la Administración Pública?",
+                        "options": [
+                            "a) Concentración.",
+                            "b) Eficacia.",
+                            "c) Jerarquía.",
+                            "d) Descentralización."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "¿Quién propone la creación de las Comisiones Delegadas del Gobierno?:",
+                        "options": [
+                            "a) El Consejo de Ministros.",
+                            "b) El Presidente del Gobierno.",
+                            "c) El Rey.",
+                            "d) El Ministro de la Presidencia."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Acordar la negociación y firma de los Tratados Internacionales corresponde al:",
+                        "options": [
+                            "a) Consejo de Ministros.",
+                            "b) Presidente del Gobierno.",
+                            "c) Ministro de Asuntos Exteriores y de Cooperación.",
+                            "d) Ninguna es correcta."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "El gobierno en funciones puede:",
+                        "options": [
+                            "a) Proponer al Rey la disolución de alguna de las Cámaras, o de las Cortes Generales.",
+                            "b) Aprobar el Proyecto de Ley de Presupuestos Generales del Estado.",
+                            "c) Presentar Proyectos de Ley al Congreso de los Diputados, en su caso, al Senado.",
+                            "d) Aprobar Reales Decretos-Leyes, en casos de extraordinaria urgencia"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Al Rey le corresponde la propuesta y el nombramiento del Presidente del Gobierno establecida en el art. 99 de la C.E. Dicho acto deberá ser refrendado por:",
+                        "options": [
+                            "a) El Presidente Del Congreso.",
+                            "b) El Presidente del Senado.",
+                            "c) El Presidente del Gobierno en funciones.",
+                            "d) No necesita refrendo."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Según la Constitución Española, si el Congreso de los Diputados adopta una moción de censura ¿qué debe hacer el Gobierno?",
+                        "options": [
+                            "a) Deberá someterse al voto de confianza de las Cámaras.",
+                            "b) Deberá presentar su dimisión al Rey.",
+                            "c) Deberá presentar a las Cámaras un nuevo candidato a la Presidencia del Gobierno.",
+                            "d) Deberá presentar al Rey el candidato que salga de la investidura."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "No es función del Presidente del Gobierno:",
+                        "options": [
+                            "a) Aprobar los Reales Decretos-Leyes y los Reales Decretos Legislativos.",
+                            "b) Proponer al Rey el nombramiento o separación de los Ministros.",
+                            "c) Interponer el recurso de inconstitucionalidad.",
+                            "d) Resolver los conflictos de atribuciones que puedan surgir entre los diferentes Ministerios."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Como titulares de un Departamento Ministerial, los Ministros ejercerán las siguientes funciones:",
+                        "options": [
+                            "a) Desarrollar la acción del Gobierno en el ámbito de su Departamento, de conformidad con los acuerdos adoptados en Consejo de Ministros o con las directrices del Presidente del Gobierno.",
+                            "b) Aprobar proyectos de ley en materias de su competencia.",
+                            "c) Crear los órganos directivos de su Departamento Ministerial.",
+                            "d) Todas son correctas."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "¿Cómo se denominan los órganos de gestión de una o varias áreas funcionalmente homogéneas en un Ministerio?",
+                        "options": [
+                            "a) Direcciones Generales.",
+                            "b) Secretarías Generales.",
+                            "c) Secretarías Generales Técnicas.",
+                            "d) Subdirecciones Generales."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "¿Quién nombra al Delegado del Gobierno en las Comunidades Autónomas?:",
+                        "options": [
+                            "a) El Congreso de los Diputados, mediante una ley.",
+                            "b) El Senado, mediante un Decreto.",
+                            "c) El Consejo de Ministros, mediante un Real Decreto.",
+                            "d) El Presidente de la Comunidad Autónoma respectiva."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "En la organización territorial de la Administración General del Estado los Delegados del Gobierno en las Comunidades Autónomas tendrán rango de:",
+                        "options": [
+                            "a) Secretario de Estado.",
+                            "b) Subsecretario.",
+                            "c) Director General.",
+                            "d) Subdirector General."
+                        ],
+                        "correctAnswer": "b"
+                    }
+                ]
+            },
+            {
+                "title": "Tema 4",
+                "questions": [
+                    {
+                        "question": "Según el artículo 141 de la Constitución Española, la provincia es una entidad local:",
+                        "options": [
+                            "a) Con personalidad jurídica plena",
+                            "b) Sin personalidad jurídica",
+                            "c) Con personalidad jurídica propia",
+                            "d) Que depende jerárquicamente de la Comunidad Autónoma correspondiente"
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Según la Constitución, ¿Pueden dos Comunidades Autónomas federarse?",
+                        "options": [
+                            "a) No, nunca.",
+                            "b) Sí, si lo establecen sus respectivos Estatutos de Autonomía y se aprueba el Proyecto por mayoría absoluta en las dos Asambleas Legislativas implicadas.",
+                            "c) Sí, cumplidos los requisitos del epígrafe anterior y con aprobación del Congreso de los Diputados.",
+                            "d) Si, previo informe favorable del Consejo de Estado y si el proyecto es aprobado por mayoría simple de las dos Asambleas Legislativas afectadas."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Según la Constitución, los recursos del Fondo de Compensación Interterritorial serán distribuidos:",
+                        "options": [
+                            "a) Por el Gobierno.",
+                            "b) Por las Comunidades Autónomas.",
+                            "c) Por las Cortes Generales.",
+                            "d) Por el Presidente del Gobierno."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Las Comunidades Autónomas que accedan a la autonomía por la vía del art. 143 asumirán todas las competencias:",
+                        "options": [
+                            "a) Del art. 148 obligatoriamente.",
+                            "b) Del art. 149.",
+                            "c) Que estimen oportunas, dentro del marco del art. 148.",
+                            "d) Del art. 148 y, transcurridos 3 años, las del art. 149."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Según establece el artículo 147 de la Constitución, debe figurar entre el contenido mínimo que debe contener un estatuto de autonomía:",
+                        "options": [
+                            "a) Denominación de la Comunidad Autónoma, límites territoriales y competencias que asume.",
+                            "b) Delimitación del territorio, denominación de la Comunidad y bandera.",
+                            "c) Delimitación del territorio, denominación de la Comunidad y capital.",
+                            "d) Denominación de la Comunidad, delimitación del territorio, denominación, organización y sede de sus instituciones competencias asumidas y bases para el traspaso de servicios."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "En función de su relación con el Estado, las competencias de las comunidades autónomas pueden ser:",
+                        "options": [
+                            "a) Exclusivas, concurrentes y compartidas.",
+                            "b) Exclusivas, concurrentes y reglamentarias.",
+                            "c) Exclusivas, concurrentes y de desarrollo.",
+                            "d) Exclusivas, compartidas y de género."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "El Estado puede transferir a las Comunidades Autónomas facultades correspondientes a materia de titularidad estatal mediante:",
+                        "options": [
+                            "a) Ley Marco",
+                            "b) Ley Ordinaria",
+                            "c) Ley de Armonización",
+                            "d) Ley Orgánica"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Si una Comunidad Autónoma no cumpliere las obligaciones que la Constitución u otras leyes le impongan, ¿quién podrá adoptar las medidas necesarias para obligar al cumplimiento forzoso de dichas obligaciones?:",
+                        "options": [
+                            "a) Las Cortes Generales.",
+                            "b) El Presidente del Gobierno.",
+                            "c) El Gobierno.",
+                            "d) El Congreso."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "¿Es posible crear agrupaciones de municipios distintas a la provincia?",
+                        "options": [
+                            "a) No, nunca.",
+                            "b) Únicamente en los Archipiélagos.",
+                            "c) Únicamente en las áreas metropolitanas de Madrid y Barcelona.",
+                            "d) Sí."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Los Presidentes de las Comunidades Autónomas son nombrados por:",
+                        "options": [
+                            "a) el Rey, con el refrendo del Presidente del Gobierno",
+                            "b) el Rey a propuesta del Consejo de Ministros",
+                            "c) el Rey, con el refrendo del Presidente de la Asamblea Legislativa",
+                            "d) el Presidente de la Asamblea Legislativa"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "No corresponde al Consejo de Gobierno de una Comunidad Autónoma:",
+                        "options": [
+                            "a) Dirigir la política autonómica.",
+                            "b) Interponer el recurso de inconstitucionalidad ante el Tribunal Constitucional.",
+                            "c) Elegir al Presidente de la Comunidad Autónoma.",
+                            "d) Ejercer la potestad reglamentaria."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "El control económico y presupuestario de las Comunidades Autónomas se ejercerá por:",
+                        "options": [
+                            "a) La Asamblea Legislativa de la Comunidad Autónoma.",
+                            "b) El Tribunal de Cuentas.",
+                            "c) El Ministerio de Hacienda y Función Pública.",
+                            "d) El Gobierno."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "El gobierno y la administración autónoma de las provincias están encomendados a:",
+                        "options": [
+                            "a) Las Diputaciones u otras Corporaciones de carácter representativo.",
+                            "b) Los Ayuntamientos.",
+                            "c) Las Haciendas locales.",
+                            "d) Los Alcaldes."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "¿Quién elige al Presidente de la Diputación?",
+                        "options": [
+                            "a) El Pleno.",
+                            "b) Los Diputados electos.",
+                            "c) La Junta de Gobierno.",
+                            "d) Los municipios de la provincia."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "El artículo 140 de la Constitución garantiza:",
+                        "options": [
+                            "a) La personalidad jurídica propia de las provincias.",
+                            "b) La autonomía de los municipios.",
+                            "c) La personalidad jurídica plena de los municipios.",
+                            "d) La independencia de los municipios"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "¿Es posible crear agrupaciones de municipios distintas a la provincia?",
+                        "options": [
+                            "a) No, nunca.",
+                            "b) Únicamente en los Archipiélagos.",
+                            "c) Únicamente en las áreas metropolitanas de Madrid y Barcelona.",
+                            "d) Sí."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "La votación sobre la moción de censura del Alcalde corresponde:",
+                        "options": [
+                            "a) A la Junta de Gobierno Local.",
+                            "b) Al Pleno del Ayuntamiento.",
+                            "c) A la Comisión Especial de Sugerencias y Reclamaciones.",
+                            "d) A los Tenientes de Alcalde."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Según el artículo 21 de la Ley Reguladora de las Bases del Régimen Local, a quién le corresponde ejercer la jefatura de la Policía Municipal:",
+                        "options": [
+                            "a) Al Alcalde.",
+                            "b) Al Pleno.",
+                            "c) A la Comisión de Gobierno.",
+                            "d) Al Delegado de Gobierno."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "En la organización municipal, la Junta de Gobierno Local, se constituye:",
+                        "options": [
+                            "a) en los Municipios con población superior a 5.000 habitantes.",
+                            "b) en todos los Municipios.",
+                            "c) en los Municipios en régimen de Concejo Abierto",
+                            "d) solo en los Municipios de gran población"
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "En el sistema municipal de Concejo Abierto, el gobierno y administración se atribuye a:",
+                        "options": [
+                            "a) Los vecinos.",
+                            "b) al Alcalde.",
+                            "c) al Alcalde y a una Asamblea Vecinal, de la que forman parte todos los vecinos.",
+                            "d) al Alcalde y a una Asamblea Vecinal, de la que forman parte todos los electores."
+                        ],
+                        "correctAnswer": "d"
+                    }
+                ]
+            },
+            {
+                "title": "Tema 5",
+                "questions": [
+                    {
+                        "question": "Una vez el Reino Unido ha abandonado la UE, ¿hasta qué fecha se mantiene el periodo transitorio durante el cual el derecho de la UE es aplicable a Reino Unido, salvo en los relativo a la presencia en las Instituciones y estructuras de Gobierno?",
+                        "options": [
+                            "a) 31 de enero de 2021",
+                            "b) 31 de diciembre de 2020",
+                            "c) 31 de diciembre de 2020, pudiendo ser prorrogado una única vez hasta un máximo de dos años",
+                            "d) 31 de diciembre de 2020, pudiendo ser prorrogado una única vez por un solo año"
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "¿Cuál de los siguientes no es país miembro de la Unión Europea?",
+                        "options": [
+                            "a) República Checa.",
+                            "b) Grecia.",
+                            "c) Serbia.",
+                            "d) Alemania."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Señale la respuesta incorrecta. La Unión dispondrá de competencia exclusiva en los ámbitos siguientes:",
+                        "options": [
+                            "a) la conservación de los recursos biológicos marinos dentro de la política pesquera común.",
+                            "b) la unión aduanera.",
+                            "c) la cohesión económica, social y territorial.",
+                            "d) la política monetaria de los Estados miembros cuya moneda es el euro."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "¿Cuántos escaños le corresponden actualmente a España en el Parlamento Europeo?:",
+                        "options": [
+                            "a) 34 escaños.",
+                            "b) 59 escaños.",
+                            "c) 86 escaños.",
+                            "d) 54 escaños."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "El Parlamento Europeo celebra cada año un periodo de sesiones. Se reunirá sin necesidad de previa convocatoria:",
+                        "options": [
+                            "a) El segundo martes de febrero.",
+                            "b) El segundo martes de marzo.",
+                            "c) El segundo martes de abril.",
+                            "d) El segundo martes de mayo."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "El procedimiento legislativo ordinario es también conocido como:",
+                        "options": [
+                            "a) Procedimiento de codecisión",
+                            "b) Procedimiento legislativo originario.",
+                            "c) Procedimiento de colegislación.",
+                            "d) Directiva comunitaria."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "En relación con el Presidente del Consejo Europeo, señale la respuesta correcta:",
+                        "options": [
+                            "a) Es elegido por el Consejo Europeo por mayoría cualificada para un mandato de dos años y medio, que podrá renovarse una sola vez",
+                            "b) Es elegido por el Consejo Europeo por mayoría cualificada para un mandato de dos años y medio, que no podrá renovarse",
+                            "c) Es elegido por la Comisión por cinco años. Su mandato será renovable.",
+                            "d) Es elegido por el Parlamento Europeo, a propuesta de la Consejo Europeo."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "No es función propia del Consejo Europeo:",
+                        "options": [
+                            "a) presentar al Parlamento Europeo y al Consejo una propuesta que contenga el proyecto de presupuesto de la Unión, a más tardar el 1 de septiembre del año que precede al de su ejecución",
+                            "b) Definir las prioridades políticas generales de la Unión Europea.",
+                            "c) Nombrar, con la aprobación del Presidente de la Comisión, al Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad.",
+                            "d) Constatar violaciones graves y persistentes por un Estado miembro de los valores recogidos en el Tratado de la Unión Europea."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "De las siguientes Instituciones de la Unión Europea, tiene su sede en Bruselas",
+                        "options": [
+                            "a) El Parlamento Europeo.",
+                            "b) El Tribunal de Cuentas",
+                            "c) El Tribunal de Justicia de la Unión Europea",
+                            "d) El Consejo."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "La Presidencia de las formaciones del Consejo es rotatoria y tiene una duración de:",
+                        "options": [
+                            "a) Seis meses.",
+                            "b) Nueve meses.",
+                            "c) Dos años y medio.",
+                            "d) Un año."
+                        ],
+                        "correctAnswer": "c"
+                    }
+                ]
+            },
+            {
+                "title": "Tema 6",
+                "questions": [
+                    {
+                        "question": "Según la Constitución, la Justicia se administra …:",
+                        "options": [
+                            "a) En nombre del pueblo español.",
+                            "b) En nombre de la Constitución y las leyes.",
+                            "c) En nombre del Rey.",
+                            "d) En nombre de España."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "¿Cuál de los siguientes no es un orden jurisdiccional?",
+                        "options": [
+                            "a) Penal",
+                            "b) Administrativo",
+                            "c) Social",
+                            "d) Civil"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Según el artículo 120 de la Constitución española, las actuaciones judiciales:",
+                        "options": [
+                            "a) Serán siempre públicas.",
+                            "b) Serán públicas cuando así lo prevea la Ley.",
+                            "c) Serán siempre secretas.",
+                            "d) Serán públicas, con las excepciones que prevean las leyes de procedimiento."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Cuando el Consejo General del Poder Judicial deba informar los anteproyectos de leyes y disposiciones generales, salvo que medie urgencia, emitirá su informe en el plazo de:",
+                        "options": [
+                            "a) Veinte días.",
+                            "b) Treinta días.",
+                            "c) Un mes.",
+                            "d) Dos meses."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "¿Cuántos vocales del Consejo General del Poder Judicial eligen las Cortes Generales?",
+                        "options": [
+                            "a) Ocho.",
+                            "b) Doce.",
+                            "c) Veinte.",
+                            "d) Cuatro."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "¿Cuántos miembros de la carrera judicial en servicio activo deberán avalar la candidatura de un juez o magistrado en servicio activo para poder presentar candidatura para ser elegido vocal del Consejo General del Poder Judicial por el turno judicial?",
+                        "options": [
+                            "a) 20",
+                            "b) 25",
+                            "c) 12",
+                            "d) 100"
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "¿Por quién serán nombrados los vocales del Consejo General del Poder Judicial?",
+                        "options": [
+                            "a) Por el Rey.",
+                            "b) Por el Presidente del Gobierno.",
+                            "c) Por el Ministro de Justicia.",
+                            "d) Por el Presidente del Consejo General del Poder Judicial."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "El Presidente del Consejo General del Poder Judicial tomará posesión de su cargo ante:",
+                        "options": [
+                            "a) El Pleno del Consejo General del Poder Judicial",
+                            "b) Los Plenos del Consejo General del Poder Judicial y del Tribunal Supremo en sesión conjunta",
+                            "c) El Pleno del Tribunal Supremo",
+                            "d) El Rey"
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "El Vicepresidente del Tribunal Supremo podrá ser cesado por el Pleno del Consejo General del Poder Judicial por causa justificada, con el voto favorable de al menos:",
+                        "options": [
+                            "a) La mayoría simple de los miembros del Pleno.",
+                            "b) La mayoría absoluta de los miembros del Pleno.",
+                            "c) Dos tercios de los miembros del Pleno.",
+                            "d) Tres quintos de los miembros del Pleno."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "¿Cuál de las siguientes competencias no corresponde al Pleno del Consejo General del Poder Judicial?",
+                        "options": [
+                            "a) Nombrar y cesar al Director del Gabinete de la Presidencia y al Director de la Oficina de Comunicación, así como al personal eventual al servicio del Presidente",
+                            "b) La elección y nombramiento de los Vocales componentes de las diferentes Comisiones",
+                            "c) La aprobación del Presupuesto del Consejo General del Poder Judicial",
+                            "d) La resolución de los recursos de alzada interpuestos contra los acuerdos sancionadores de la Comisión Disciplinaria y los que se interpongan contra los de la Comisión Permanente"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Preparar las sesiones del Pleno del CGPJ corresponde a:",
+                        "options": [
+                            "a) El Presidente.",
+                            "b) La Comisión Permanente.",
+                            "c) El Director del Gabinete de la Presidencia del Tribunal Supremo y del Consejo General del Poder Judicial.",
+                            "d) El Gabinete de la Presidencia del Tribunal Supremo y del Consejo General del Poder Judicial."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "La Comisión de Asuntos Económicos:",
+                        "options": [
+                            "a) Será elegida anualmente por la Comisión Permanente.",
+                            "b) Estará integrada por 5 Vocales.",
+                            "c) Será Presidida por el Presidente del Tribunal Supremo y del Consejo General del Poder Judicial.",
+                            "d) Elaborará el borrador de proyecto del presupuesto anual del Consejo, cuando la Comisión Permanente le delegue esta función"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "El Promotor de la Acción Disciplinaria será nombrado entre:",
+                        "options": [
+                            "a) Magistrados del Tribunal Supremo y Magistrados con más de 15 años de antigüedad en la carrera judicial",
+                            "b) Magistrados del Tribunal Supremo y Magistrados con más de 25 años de antigüedad en la carrera judicial",
+                            "c) Magistrados del Tribunal Supremo y Juristas con más de 15 años de antigüedad en la carrera judicial.",
+                            "d) Magistrados y Juristas con más de 15 años de antigüedad en la carrera judicial."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Los tribunales españoles del orden civil podrán ser competentes en materia de declaración de ausencia o fallecimiento:",
+                        "options": [
+                            "a) Siempre que el desaparecido sea español.",
+                            "b) Cuando el desaparecido hubiera tenido su último domicilio en territorio español o tuviera nacionalidad española.",
+                            "c) Cuando el desaparecido hubiera tenido su residencia habitual en España.",
+                            "d) Ninguna es cierta."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Los jueces serán nombrados mediante:",
+                        "options": [
+                            "a) Real Decreto del Presidente del Gobierno.",
+                            "b) Orden, por el Ministro de Justicia.",
+                            "c) Orden por el Consejo General del Poder Judicial.",
+                            "d) Real Decreto refrendado por el Ministro de Justicia."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "¿Pueden los jueces y tribunales corregir la aplicación o la interpretación del ordenamiento jurídico hecha por sus inferiores?",
+                        "options": [
+                            "a) En ningún caso, pues los jueces y magistrados son independientes",
+                            "b) Sí, mediante la elaboración de la doctrina jurisprudencial",
+                            "c) Sí, mediante instrucciones elaboradas por el Consejo General del Poder Judicial.",
+                            "d) Sí, cuando administran justicia en virtud de los recursos que las leyes establecen"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Entre las misiones del Ministerio Fiscal no se encuentra la de:",
+                        "options": [
+                            "a) Velar por la independencia de los Tribunales.",
+                            "b) Interponer el recurso de amparo constitucional.",
+                            "c) Interponer el recurso de inconstitucionalidad.",
+                            "d) Ejercitar las acciones penales y civiles dimanantes de delitos perseguibles de oficio."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "El mandato del Fiscal General del Estado:",
+                        "options": [
+                            "a) Es renovable",
+                            "b) No es renovable, en ningún caso",
+                            "c) Puede ser renovado si ha ostentado el cargo menos de cuatro años",
+                            "d) Puede ser renovado si ha ostentado el cargo menos de dos años"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "No podrán ser elegidos vocales del Consejo Fiscal, los Fiscales que presten sus servicios en:",
+                        "options": [
+                            "a) La Fiscalía del Tribunal Superior de Justicia de la Comunidad Autónoma.",
+                            "b) La Secretaria Técnica de la Fiscalía General del Estado.",
+                            "c) La Fiscalía de la Audiencia Nacional.",
+                            "d) La Fiscalía del Tribunal Supremo."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "En las Fiscalías Provinciales existirán las siguientes Secciones:",
+                        "options": [
+                            "a) De Menores, contra la Violencia sobre la Mujer y Medio Ambiente",
+                            "b) De Menores, contra la Violencia sobre la Mujer y Antidroga",
+                            "c) Contra la Violencia sobre la Mujer, Antidroga y contra la Corrupción y contra la Criminalidad Organizada.",
+                            "d) Antidroga y contra la Corrupción y contra la Criminalidad Organizada."
+                        ],
+                        "correctAnswer": "a"
+                    }
+                ]
+            },
+            {
+                "title": "Tema 7",
+                "questions": [
+                    {
+                        "question": "La planta de los juzgados y tribunales se establece:",
+                        "options": [
+                            "a) Por ley o, en los casos expresamente contemplados en la Ley, por real decreto",
+                            "b) Por el Gobierno.",
+                            "c) Por ley.",
+                            "d) Por las Comunidades Autónomas."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "El Presidente del Tribunal Supremo y del Consejo General del Poder Judicial:",
+                        "options": [
+                            "a) No podrá ser reelegido.",
+                            "b) Podrá ser reelegido y nombrado, por una sola vez, para un nuevo mandato.",
+                            "c) Podrá ser reelegido y nombrado, por dos veces, para un nuevo mandato.",
+                            "d) Podrá ser reelegido y nombrado las veces que se estime conveniente."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Corresponde determinar la composición y plantilla del Gabinete Técnico del Tribunal Supremo:",
+                        "options": [
+                            "a) Ministerio de Hacienda y Administraciones Públicas",
+                            "b) Ministerio de Justicia.",
+                            "c) Sala de Gobierno del Tribunal Supremo.",
+                            "d) Consejo General del Poder Judicial."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "La Sala de lo Civil del Tribunal Supremo conocerá, entre otras, de las acciones civiles dirigidas contra:",
+                        "options": [
+                            "a) el Rey o Reina.",
+                            "b) la Princesa o Príncipe de Asturias.",
+                            "c) las Infantas de España",
+                            "d) todas son correctas"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "La Sala Tercera del Tribunal Supremo conoce de:",
+                        "options": [
+                            "a) En única instancia de los recursos que se deduzcan en relación con los actos y disposiciones del Consejo de Ministros y de las Comisiones Delegadas del Gobierno.",
+                            "b) Los recursos de casación y revisión contra las resoluciones dictadas por el Tribunal Constitucional.",
+                            "c) En única instancia, de los recursos contencioso-administrativos contra los actos dictados por la Comisión de Vigilancia de Actividades de Financiación del Terrorismo",
+                            "d) Los actos y resoluciones dictados por órganos de la Administración General del Estado cuya competencia se extienda a todo el territorio nacional y cuyo nivel orgánico sea inferior al de Ministro o Secretario de Estado en materias de personal, propiedades especiales y expropiación forzosa."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "De los recursos contra actos y disposiciones de los órganos competentes del Tribunal de Cuentas, conocerá:",
+                        "options": [
+                            "a) La Sala de lo Contencioso-Administrativo del Tribunal Supremo",
+                            "b) La Sala de lo Civil del Tribunal Supremo",
+                            "c) La Sala de lo Contencioso-Administrativo de la Audiencia Nacional",
+                            "d) La Sala de Gobierno del Tribunal Supremo"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "De los procesos de declaración de ilegalidad y disolución de los partidos políticos, conoce:",
+                        "options": [
+                            "a) La Sala Especial del Tribunal Supremo.",
+                            "b) La Sala especial de la Audiencia Nacional",
+                            "c) La Sala de lo Contencioso-administrativo de la Audiencia Nacional.",
+                            "d) La Sala de lo Contencioso-administrativo del Tribunal Supremo."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Las plazas de Presidente de la Sala de Apelación de la Audiencia Nacional se proveerá",
+                        "options": [
+                            "a) a propuesta del Consejo General del Poder Judicial, por un período de 5 años renovables por mandatos de 5 años, entre magistrados con 10 años de servicios prestados in the categoría y 8 in the order penal",
+                            "b) a propuesta del Consejo General del Poder Judicial, por un período de 5 años renovable por un único mandato de other 5 years, between magistrados con más de 15 años de antigüedad en la carrera que hayan prestado servicios at least during 10 years in the orden jurisdiccional penal",
+                            "c) a propuesta del Consejo General del Poder Judicial, por un período of 5 años not renovable, between magistrados con 15 años of services prestados in the categoría and 10 in the orden jurisdiccional penal",
+                            "d) a propuesta del Consejo General del Poder Judicial, by a período of 5 años renovable by a único mandato of other 5 years, between magistrados con 15 años of services prestados in the categoría and 10 in the orden jurisdiccional penal"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "De los recursos de apelación against the sentencias dictadas by the Juzgados Centrales de lo Penal, conocerá:",
+                        "options": [
+                            "a) La Sala de segunda del Tribunal Supremo",
+                            "b) La Sala de lo Penal de la Audiencia Nacional",
+                            "c) La Sala de Apelación de la Audiencia Nacional",
+                            "d) El Pleno de la Audiencia Nacional."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "La Sala de lo Penal de la Audiencia Nacional conoce:",
+                        "options": [
+                            "a) De los recursos respecto a los instrumentos de reconocimiento mutuo de resoluciones penales en la Unión Europea that les atribuya la ley, y the resolución de los procedimientos judiciales de extradición pasiva, sea cual fuere el lugar de residencia o en que hubiese tenido lugar la detención del afectado por el procedimiento",
+                            "b) De las causas por defraudaciones y maquinaciones para alterar el precio de las cosas, en todo caso.",
+                            "c) De las causas por tráfico de drogas o estupefacientes, fraudes alimentarios y de sustancias farmacéuticas o medicinales, en cualquier caso.",
+                            "d) Todas son correctas."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "En la Audiencia Nacional, conocerá de los incidentes de recusación de los Presidentes de Sala:",
+                        "options": [
+                            "a) La Sala a la que pertenezca el Presidente recusado",
+                            "b) La Sala de Gobierno de la Audiencia Nacional.",
+                            "c) Una Sala formada por el Presidente de la Audiencia Nacional, los Presidentes de las Salas y un número de Magistrados igual al de éstos.",
+                            "d) Una Sala formada por el Presidente de la Audiencia Nacional, los Presidentes de las Salas and the Magistrado más antiguo and the más moderno of each one."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "¿Pueden crearse Salas de los Tribunales Superiores de Justicia fuera de su sede?",
+                        "options": [
+                            "a) En ningún caso.",
+                            "b) Con plenas competencias, Salas de lo Contencioso-administrativo and de lo Social.",
+                            "c) Con plenas competencias, exclusively Secciones or Salas de lo Penal.",
+                            "d) When el número de asuntos lo aconseje, se podrán crear Salas de cualquier orden jurisdiccional."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Los presidentes of the Tribunales Superiores de Justicia are nombrados between Magistrados que:",
+                        "options": [
+                            "a) Lleven fifteen años perteneciendo to the carrera judicial and five years in the categoría of magistrado.",
+                            "b) Lleven ten años perteneciendo to the carrera judicial and five years in the categoría of magistrado.",
+                            "c) Lleven fifteen years perteneciendo to the carrera judicial and ten years in the categoría of magistrado.",
+                            "d) Lleven ten years perteneciendo to the carrera judicial and three years in the categoría of magistrado."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "De los recursos que procedan contra las resoluciones dictadas por los Órganos de la Administración de la Comunidad Autónoma that pongan fin a la vía administrativa o que se hayan dictado en cumplimiento de lo dispuesto en una ley, conocerá:",
+                        "options": [
+                            "a) La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia",
+                            "b) La Sala de lo Contencioso-Administrativo de la Audiencia Nacional",
+                            "c) La Sala de lo Contencioso-Administrativo del Tribunal Supremo",
+                            "d) La Sala de Gobierno del Tribunal Superior de Justicia."
+                        ],
+                        "correctAnswer": "a"
+                    }
+                ]
+            },
+            {
+                "title": "Tema 8 - 9",
+                "questions": [
+                    {
+                        "question": "¿Quién conoce de las peticiones de ejecución de sentencias civiles dictadas por tribunales extranjeros, como regla general?:",
+                        "options": [
+                            "a) La Audiencia Nacional.",
+                            "b) Los Juzgados de Primera Instancia.",
+                            "c) La Audiencia Provincial.",
+                            "d) La Sala de lo Civil y Penal de los Tribunales Superiores de Justicia."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "¿Quién conocerá de los procedimientos de 'habeas corpus'?",
+                        "options": [
+                            "a) Los Juzgados de lo Penal.",
+                            "b) Los Juzgados de Violencia sobre la Mujer.",
+                            "c) Los Juzgados de Instrucción.",
+                            "d) Las Audiencias Provinciales."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Corresponde a los Juzgados de Instrucción:",
+                        "options": [
+                            "a) La instrucción de las causas por delito cuyo enjuiciamiento corresponda a los Tribunales Superiores de Justicia, Audiencias Provinciales y a los Juzgados de lo Penal.",
+                            "b) La instrucción de las causas por delito cuyo enjuiciamiento corresponda a las Audiencias Provinciales y a los Juzgados de lo Penal, excepto de aquellas causas que competencia de los Juzgados de Violencia sobre la Mujer.",
+                            "c) La instrucción de todas las causas por delito cuyo enjuiciamiento corresponda a las Audiencias Provinciales y a los Juzgados de lo Penal.",
+                            "d) El conocimiento y fallo de todos los juicios sobre cualquier clase de delitos leves que se cometan en el partido judicial."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Conocerán del control de la estancia de extranjeros en las salas de inadmisión de fronteras:",
+                        "options": [
+                            "a) Los Juzgados de Primera Instancia.",
+                            "b) Los Juzgados de lo Contencioso-Administrativo.",
+                            "c) Los Juzgados de Instrucción.",
+                            "d) Las Salas de lo Contencioso-Administrativo del Tribunal Superior de Justicia."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Los Juzgados Centrales de Instrucción, instruyen las causas cuyo enjuiciamiento corresponde a:",
+                        "options": [
+                            "a) Sala de Apelación de la Audiencia Nacional",
+                            "b) Juzgados Centrales de lo Penal",
+                            "c) Cualquier Sala de la Audiencia Nacional",
+                            "d) Juzgado Central de Menores"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "En los partidos judiciales en que exista un solo Juzgado de Primera Instancia e Instrucción:",
+                        "options": [
+                            "a) se creará un Juzgado de Violencia sobre la Mujer.",
+                            "b) será éste el que asuma el conocimiento de los asuntos del Juzgado de Violencia sobre la Mujer.",
+                            "c) se transformará éste en Juzgado de Violencia sobre la Mujer.",
+                            "d) el conocimiento de los asuntos de violencia sobre la mujer vendrá atribuidos al Juzgado de Violencia sobre la Mujer de la capital de la provincia."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Corresponde a los Juzgados de lo Penal:",
+                        "options": [
+                            "a) El reconocimiento y ejecución de las resoluciones de decomiso transmitidas por las autoridades competentes de otros Estados miembros de la Unión Europea, cuando las mismas deban cumplirse en territorio español.",
+                            "b) El reconocimiento y ejecución de las resoluciones de decomiso transmitidas por las autoridades competentes de otros Estados, cuando las mismas deban cumplirse en territorio español.",
+                            "c) El reconocimiento y ejecución de las resoluciones de decomiso transmitidas por las autoridades competentes de otros Estados miembros de la Unión Europea, cuando afecten a españoles.",
+                            "d) El reconocimiento y ejecución de las resoluciones de decomiso transmitidas por las autoridades competentes de otros Estados, cuando afecten a españoles."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Los juzgados de lo mercantil, existen, con carácter general:",
+                        "options": [
+                            "a) En cada partido judicial, con sede en su capital",
+                            "b) En cada provincia, con sede en su capital",
+                            "c) En cada provincia, con sede en la capital y en los municipios de más de 250.000 habitantes.",
+                            "d) En cada comunidad autónoma, con sede en su capital"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Cuando el deudor sea persona natural, la jurisdicción del juez del concurso será también exclusiva y excluyente en las siguientes materias:",
+                        "options": [
+                            "a) Asistencia jurídica gratuita del concursado y la disolución y liquidación de la sociedad de gananciales del concursado",
+                            "b) Procesos civiles sobre capacidad, filiación y matrimonio del concursado",
+                            "c) Procesos civiles de jurisdicción voluntaria en los que esté interesado el concursado",
+                            "d) Todas son correctas"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "¿Podrán crearse Juzgados de lo Contencioso Administrativo con jurisdicción en un solo partido judicial?",
+                        "options": [
+                            "a) Si, cuando el volumen de asuntos lo requiera",
+                            "b) No, abarcará un mínimo de dos partidos judiciales",
+                            "c) No, su jurisdicción siempre es provincial",
+                            "d) No, su jurisdicción es provincial o abarcará a más de una provincia dentro de la misma Comunidad Autónoma"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Los juzgados de lo Contencioso-administrativo conocen de los recursos que se deduzcan frente a los actos administrativos de la Administración de las comunidades autónomas, salvo cuando procedan del respectivo Consejo de Gobierno, cuando tengan por objeto:",
+                        "options": [
+                            "a) Las reclamaciones por responsabilidad patrimonial cuya cuantía no exceda de 30.050 euros",
+                            "b) Las sanciones administrativas que consistan en multas superiores a 60.000 euros",
+                            "c) Todas las cuestiones de personal de los funcionarios públicos de carrera",
+                            "d) Todas son correctas."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Conocerán, en primera instancia, de las resoluciones que acuerden la inadmisión de las peticiones de asilo político",
+                        "options": [
+                            "a) Los Juzgados de Instrucción",
+                            "b) Los Juzgados Centrales de Instrucción",
+                            "c) Los Juzgados Centrales de lo Contencioso-administrativo",
+                            "d) Los Juzgados de lo Contencioso administrativo"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "No tiene necesariamente su sede en la capital de la provincia, como norma general:",
+                        "options": [
+                            "a) El Juzgado de lo Penal.",
+                            "b) El Juzgado de Menores.",
+                            "c) El Juzgado de lo Social.",
+                            "d) El Juzgado de Vigilancia Penitenciaria."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "La jurisdicción del Juzgado Central de Menores se extiende:",
+                        "options": [
+                            "a) A toda España.",
+                            "b) Al partido judicial donde radique su sede.",
+                            "c) A la provincia donde radique su sede.",
+                            "d) A la Comunidad Autónoma a la que pertenezca la provincia donde radique su sede."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Corresponde al Juez de Vigilancia Penitenciaria:",
+                        "options": [
+                            "a) Autorizar permisos de salida cuya duración sea superior a dos días, excepto de los clasificados en tercer grado.",
+                            "b) Autorizar permisos de salida de los clasificados en tercer grado.",
+                            "c) Autorizar en todo caso los permisos de salida.",
+                            "d) Autorizar permisos de salida cuya duración sea superior a tres días, incluidos los clasificados en tercer grado."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Los Juzgados podrán especializarse, según establece el art. 98 LOPJ:",
+                        "options": [
+                            "a) Cuando lo acuerde la correspondiente Comunidad Autónoma.",
+                            "b) Cuando lo acuerde la Sala de Gobierno del Tribunal Superior de Justicia.",
+                            "c) Cuando lo acuerde el Consejo General del Poder Judicial.",
+                            "d) Ninguna de las anteriores es correcta."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "El tratamiento de los Jueces de Paz será:",
+                        "options": [
+                            "a) Excelencia",
+                            "b) Señoría Ilustrísima.",
+                            "c) Señoría.",
+                            "d) Vuecencia."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Los Jueces de Paz y sus sustitutos serán elegidos por:",
+                        "options": [
+                            "a) El Pleno del Ayuntamiento, con el voto favorable de la mayoría absoluta de sus miembros.",
+                            "b) El Pleno del Ayuntamiento, con el voto favorable de la mayoría simple de sus miembros.",
+                            "c) La Sala de Gobierno del Tribunal Superior de Justicia correspondiente.",
+                            "d) El Juez de Primera Instancia e Instrucción del judicial respectivo."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Los jueces de paz tomaran posesión de su cargo en el plazo de:",
+                        "options": [
+                            "a) 20 días naturales siguientes a la fecha de su nombramiento",
+                            "b) 20 días naturales siguientes desde que presten juramento o promesa",
+                            "c) 20 días naturales siguientes a la fecha de publicación de su nombramiento en el BOP",
+                            "d) 20 días naturales desde la fecha de publicación de su nombramiento en el BOP"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "A los Juzgados de Paz les corresponde el conocimiento en primera instancia:",
+                        "options": [
+                            "a) De los asuntos civiles de cuantía no superior a 90 euros",
+                            "b) De los asuntos civiles de cuantía no superior a 300 euros",
+                            "c) De los asuntos civiles de cuantía indeterminada",
+                            "d) No tienen competencia en asuntos civiles"
+                        ],
+                        "correctAnswer": "b"
+                    }
+                ]
+            },
+            {
+                "title": "Tema 10",
+                "questions": [
+                    {
+                        "question": "La Carta de Derechos de los Ciudadanos ante la Justicia fue aprobada por el Pleno del Congreso de los Diputados:",
+                        "options": [
+                            "a) El 16 de febrero de 2000.",
+                            "b) El 16 de abril de 2003.",
+                            "c) El 16 de febrero de 2001.",
+                            "d) El 16 de abril de 2002."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "¿A quién corresponde llevar a cabo un seguimiento y evaluación permanente del desarrollo y cumplimiento de la Carta de Derechos de los Ciudadanos ante la Justicia?:",
+                        "options": [
+                            "a) Al Congreso de los Diputados, a través de la Comisión de Justicia e Interior.",
+                            "b) Al Ministerio de Justicia, a través de la Secretaria General de la Administración de Justicia.",
+                            "c) A la Consejería de Justicia de cada Comunidad Autónoma.",
+                            "d) En la carta de Derechos no está previsto este supuesto."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Señale la respuesta incorrecta respecto a la Carta de Derechos de los Ciudadanos ante la Justicia:",
+                        "options": [
+                            "a) El ciudadano tiene derecho a ser asesorado y defendido gratuitamente por un abogado y a ser representado por un procurador cuando tenga legalmente derecho a la asistencia jurídica gratuita.",
+                            "b) No vincula a Jueces y Magistrados.",
+                            "c) El ciudadano tiene derecho a conocer anticipadamente el coste aproximado de la intervención del abogado y la forma de pago.",
+                            "d) El ciudadano tiene derecho a ser atendido en horario de mañana y tarde en las dependencias judiciales de aquellos órganos en los que, por su naturaleza o volumen de asuntos, resulte necesario y en los términos legalmente previstos."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "En la Carta de Derechos de los Ciudadanos ante la Justicia y en relación con una justicia comprensible:",
+                        "options": [
+                            "a) El ciudadano tiene derecho a que las notificaciones, citaciones, emplazamientos y requerimientos contengan términos complicados e incomprensibles.",
+                            "b) El ciudadano tiene derecho a que en las vistas y comparecencias se utilice un lenguaje que, respetando las exigencias técnicas necesarias, resulte comprensible para los ciudadanos que no sean especialistas en derecho.",
+                            "c) Las resoluciones se redactarán de tal forma que no sean comprensibles a personas leguleyas.",
+                            "d) El ciudadano abonará los formularios para el ejercicio de sus derechos ante los tribunales en todo caso."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Conforme el punto 1.14 de la Carta de los Derechos de los Ciudadanos ante la Justicia, el ciudadano tiene derecho a ser atendido personalmente por el Juez o el Letrado de la Administración de Justicia:",
+                        "options": [
+                            "a) En todo caso.",
+                            "b) Respecto a cualquier incidencia relacionada con el funcionamiento del órgano judicial.",
+                            "c) Solo en los procesos penales.",
+                            "d) En ningún caso."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "De acuerdo con la Carta de Derechos de los Ciudadanos ante la Justicia, el ciudadano que sea víctima de un delito tiene derecho a ser informado sobre su intervención en el proceso penal:",
+                        "options": [
+                            "a) Con celeridad",
+                            "b) Con eficacia",
+                            "c) Con claridad",
+                            "d) Todas las respuestas son correctas"
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Según establece la Carta de Derechos de los Ciudadanos ante la Justicia, el ciudadano que declare como testigo en un proceso judicial tiene derecho a:",
+                        "options": [
+                            "a) Recibir, en todo caso, una compensación económica.",
+                            "b) Ser adecuadamente protegido.",
+                            "c) No declarar, salvo en procesos penales.",
+                            "d) Declarar desde su propio domicilio, en el caso de que se sienta intimidado."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "De acuerdo con la Carta de Derechos de los Ciudadanos ante la Justicia, el menor de edad tiene derecho a que su comparecencia ante los órganos judiciales se haga:",
+                        "options": [
+                            "a) De forma adecuada a su situación y desarrollo evolutivo",
+                            "b) De forma adecuada a su dignidad y preservando su intimidad",
+                            "c) De forma preferente al resto de personas que tengan que comparecer ante dichos órganos",
+                            "d) De forma adecuada siempre que se considere necesario"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Según establece la Carta de Derechos de los Ciudadanos ante la Justicia en relación a la lengua oficial en las actuaciones judiciales:",
+                        "options": [
+                            "a) El ciudadano tiene derecho a utilizar con la Administración de Justicia del territorio de su Comunidad Autónoma, la lengua oficial que escoja",
+                            "b) El ciudadano no tiene derecho a utilizar con la Administración de Justicia del territorio de su Comunidad Autónoma, la lengua oficial que escoja",
+                            "c) El ciudadano tiene derecho a utilizar siempre la lengua que prefiera, independientemente de la Comunidad Autónoma en la que se lleve a cabo el procedimiento",
+                            "d) El ciudadano utilizará la lengua oficial que establezca el Secretario Judicial del Juzgado donde se tramite el procedimiento"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "La suspensión de una vista o comparecencia, según la Carta de Derechos de los ciudadanos ante la Justicia:",
+                        "options": [
+                            "a) Deberá comunicarse por resolución motivada del Letrado de la Administración de Justicia el mismo día de la resolución.",
+                            "b) Deberá comunicarse por escrito y resolución motivada del Juez o Tribunal el mismo día de la resolución.",
+                            "c) Se comunicará al ciudadano con antelación suficiente, salvo causa de fuerza mayor, para evitar su desplazamiento.",
+                            "d) Se publicará en el Boletín Oficial de la Comunidad Autónoma en que se celebre la vista."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Según establece la Carta de Derechos de los Ciudadanos ante la Justicia, el ciudadano tiene derecho a conocer la identidad y categoría de la autoridad o funcionario que le atiende:",
+                        "options": [
+                            "a) Siempre",
+                            "b) No",
+                            "c) Depende del proceso judicial del que se trate",
+                            "d) Salvo cuando esté justificado por razones de seguridad en causas criminales"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Según establece el punto 19 de la Carta de Derechos de los Ciudadanos ante la Justicia, el ciudadano, en relación con los asuntos que le afecten, tiene derecho a una tramitación",
+                        "options": [
+                            "a) Profesional",
+                            "b) Flexible",
+                            "c) Ágil",
+                            "d) Continuada"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "En la relación de los ciudadanos con los profesionales que los defienden o los representan en un procedimiento judicial, el punto 37 de la Carta de Derechos de los Ciudadanos con la Justicia establece que:",
+                        "options": [
+                            "a) El Abogado y el Procurador estarán obligados a entregar a su cliente un presupuesto previo solo cuando lo solicite.",
+                            "b) El Abogado y el Procurador estarán obligados a entregar a su cliente un presupuesto previo",
+                            "c) El Abogado y el Procurador no estarán obligados a entregar a su cliente un presupuesto previo, aunque lo solicite.",
+                            "d) El Abogado y el Procurador podrán entregar a su cliente un presupuesto previo"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Conforme al punto 27 de la Carta de Derechos de los Ciudadanos ante la Justicia, velar por la efectividad del derecho del menor de edad, cuando fuere oído en un proceso judicial, de que las distintas actuaciones judiciales se practiquen en condiciones que garanticen la comprensión de su contenido, corresponde:",
+                        "options": [
+                            "a) al Letrado de la Administración de Justicia",
+                            "b) al Juez de Menores",
+                            "c) al Ministerio Fiscal",
+                            "d) al Defensor del Menor"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Conforme al punto 34 de la Carta de Derechos de los Ciudadanos ante la Justicia, los ciudadanos podrán denunciar las conductas contrarias a la deontología profesional de Abogados o de Procuradores ante:",
+                        "options": [
+                            "a) El Colegio profesional respectivo",
+                            "b) El Juzgado de Guardia",
+                            "c) El Consejo General del Poder Justicia",
+                            "d) El Defensor del Pueblo"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Los ciudadanos que tengan interés legítimo en un proceso judicial, tendrán acceso a los documentos, libros, archivos y registros judiciales:",
+                        "options": [
+                            "a) Sí, a través de su Procurador o de su Abogado",
+                            "b) Sí cuando no tengan carácter reservado",
+                            "c) Sí, en todos los casos",
+                            "d) No"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Señale la respuesta incorrecta: Según la Carta de Derechos, los inmigrantes ante la Justicia tienen derecho a",
+                        "options": [
+                            "a) no sufrir discriminación alguna por razón de su raza, lengua, religión o creencias",
+                            "b) uso de intérprete cuando el extranjero no conozca el castellano, pero no en el supuesto de que desconozca la lengua oficial propia de la Comunidad Autónoma",
+                            "c) a recibir una protección adecuada de la Administración de Justicia al objeto de asegurar que comprenden el significado y trascendencia jurídica de las actuaciones procesales en las que intervengan",
+                            "d) cuando se trate de menores de edad, además se aplicarán los convenios internacionales ratificados por España"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Según el artículo 14 de la Ley 15/2003 en su apartado 4, el Plan de Transparencia Judicial…",
+                        "options": [
+                            "a) será aprobado por el Gobierno",
+                            "b) será aprobado por el Ministerio de Justicia",
+                            "c) será aprobado por el Consejo General del Poder Judicial",
+                            "d) será aprobado por el Gobierno y por las Comunidades autónomas con competencias en la materia"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "El primer principio, que figura recogido en el Plan de Transparencia Judicial es",
+                        "options": [
+                            "a) la independencia judicial",
+                            "b) la imparcialidad e independencia profesional",
+                            "c) el relativo a la necesaria publicidad de las actuaciones judiciales",
+                            "d) el respecto a los Derechos humanos"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Señale la respuesta incorrecta: Según el Plan de Transparencia Judicial, el conocimiento de los datos estadísticos del sistema judicial español ha de servir para la consecución de los siguientes objetivos:",
+                        "options": [
+                            "a) Implantar nuevos y modernos criterios de gestión del servicio.",
+                            "b) La creación de nuevos órganos jurisdiccionales",
+                            "c) Mejorar el acceso a la información sobre la actividad judicial.",
+                            "d) Contribuir a la planificación, desarrollo y evaluación de políticas legislativas adecuadas."
+                        ],
+                        "correctAnswer": "b"
+                    }
+                ]
+            },
+            {
+                "title": "Tema 11",
+                "questions": [
+                    {
+                        "question": "La Oficina Judicial se encuentra regulada en la Ley Orgánica del Poder Judicial, en:",
+                        "options": [
+                            "a) El Libro III.",
+                            "b) El Libro V.",
+                            "c) El Libro VI.",
+                            "d) El Libro VII."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Según el artículo 435 LOPJ, la estructura básica de la Oficina judicial estará basada en los principios de:",
+                        "options": [
+                            "a) División de funciones y desconcentración.",
+                            "b) Jerarquía, división de funciones y coordinación.",
+                            "c) Eficacia, descentralización, y desconcentración.",
+                            "d) Eficacia, descentralización, desconcentración y cooperación."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "La Oficina judicial podrá prestar su apoyo a órganos de ámbito:",
+                        "options": [
+                            "a) nacional, de comunidad autónoma, provincial, de partido judicial o de municipio.",
+                            "b) nacional, de comunidad autónoma, provincial o de partido judicial.",
+                            "c) de partido judicial.",
+                            "d) provincial, de partido judicial o de municipio."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Conforme al artículo 435 de la LOPJ, la oficina judicial tiene un carácter:",
+                        "options": [
+                            "a) Jurisdiccional.",
+                            "b) Judicial.",
+                            "c) Administrativo.",
+                            "d) Instrumental."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "La unidad de la Oficina Judicial que, sin estar integrada en un órgano judicial concreto, asume labores centralizadas de gestión y apoyo en actuaciones derivadas de la aplicación de las leyes procesales, se corresponde con:",
+                        "options": [
+                            "a) La Unidad Administrativa.",
+                            "b) La Unidad procesal de apoyo directo.",
+                            "c) Los Servicios Comunes Procesales.",
+                            "d) Los Servicios Administrativos de Gestión."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "La estructura básica de la nueva oficina judicial se divide en:",
+                        "options": [
+                            "a) Servicio común general, servicio de ordenación del procedimiento y servicio común de ejecución.",
+                            "b) Unidades procesales de apoyo directo y servicios comunes procesales.",
+                            "c) Estado, Comunidades Autónomas y Consejo General del Poder Judicial.",
+                            "d) Unidades procesales de apoyo directo y servicio común de ejecución."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "De acuerdo con la Ley Orgánica del Poder Judicial, el elemento organizativo básico de la estructura de la Oficina judicial será:",
+                        "options": [
+                            "a) la simplicidad.",
+                            "b) la diversidad.",
+                            "c) la agilidad.",
+                            "d) la unidad."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Según establece el Art. 437.5 Ley Orgánica del Poder Judicial, las dotaciones básicas de las unidades procesales de apoyo directo serán determinadas por:",
+                        "options": [
+                            "a) El Consejo General del Poder Judicial.",
+                            "b) El Secretario de Gobierno.",
+                            "c) El Ministerio de Justicia.",
+                            "d) La Consejería de Justicia respectiva."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "De acuerdo con la Ley Orgánica del Poder Judicial, un Letrado de la Administración de Justicia de una Unidad Procesal de Apoyo Directo, ¿puede actuar en más de una de estas unidades?:",
+                        "options": [
+                            "a) Si, por motivos de racionalización del servicio.",
+                            "b) Si, por motivos de unidad de actuación.",
+                            "c) No, nunca puede ejercer sus competencias en más de una unidad procesal de apoyo directo.",
+                            "d) No, solo puede desempeñar un destino."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "De acuerdo con la Ley Orgánica del Poder Judicial, podrán solicitar al Ministerio y a las Comunidades Autónomas, la creación de Servicios Comunes Procesales, conforme a necesidades específicas:",
+                        "options": [
+                            "a) Los Sindicatos de funcionarios.",
+                            "b) Las Salas de Gobierno y las Juntas de Jueces.",
+                            "c) No se puede solicitar más de las que ya estén creadas.",
+                            "d) El conjunto de jueces afectados."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "De conformidad con el artículo 438 de la Ley Orgánica del Poder Judicial, los servicios comunes procesales en razón de la actividad concreta que realicen, podrán estructurarse en:",
+                        "options": [
+                            "a) Unidades administrativas.",
+                            "b) Negociados.",
+                            "c) Secciones.",
+                            "d) Grupos."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "En el diseño de la nueva oficina judicial ¿a quién le está encomendada la gestión de los recursos humanos según la Ley Orgánica del Poder Judicial?",
+                        "options": [
+                            "a) A las Unidades Administrativas.",
+                            "b) A las Unidades Procesales de Apoyo Directo.",
+                            "c) A las Salas de Gobierno y Juntas de Jueces.",
+                            "d) A los Servicios Comunes Procesales."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "La Oficina Judicial en el orden penal se encuadra en el:",
+                        "options": [
+                            "a) Juzgado.",
+                            "b) Juzgado de Instrucción.",
+                            "c) Juzgado de lo Penal.",
+                            "d) Tribunal."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "El titular del Juzgado de Instrucción, en cuanto a su funcionamiento, cuenta con la:",
+                        "options": [
+                            "a) Unidad Procesal de Apoyo Directo y con los Servicios Comunes Procesales.",
+                            "b) Unidad Procesal de Apoyo Directo.",
+                            "c) Servicios Comunes Procesales.",
+                            "d) Servicios Comunes Procesales y con una Unidad Administrativa."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "La Oficina Judicial en el orden civil se encuadra en el:",
+                        "options": [
+                            "a) Juzgado.",
+                            "b) Juzgado de Primera Instancia.",
+                            "c) Juzgado de lo Civil.",
+                            "d) Tribunal."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "El titular del Juzgado de Primera Instancia, en cuanto a su funcionamiento, cuenta con la:",
+                        "options": [
+                            "a) Unidad Procesal de Apoyo Directo y con los Servicios Comunes Procesales.",
+                            "b) Unidad Procesal de Apoyo Directo.",
+                            "c) Servicios Comunes Procesales.",
+                            "d) Servicios Comunes Procesales y con una Unidad Administrativa."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "La Oficina Judicial en el orden social se encuadra en el:",
+                        "options": [
+                            "a) Juzgado de lo Social.",
+                            "b) Juzgado de Primera Instancia e Instrucción.",
+                            "c) Juzgado de lo Contencioso-Administrativo.",
+                            "d) Tribunal."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "El titular del Juzgado de lo Social, en cuanto a su funcionamiento, cuenta con la:",
+                        "options": [
+                            "a) Unidad Procesal de Apoyo Directo y con los Servicios Comunes Procesales.",
+                            "b) Unidad Procesal de Apoyo Directo.",
+                            "c) Servicios Comunes Procesales.",
+                            "d) Servicios Comunes Procesales y con una Unidad Administrativa."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "La Oficina Judicial en el orden contencioso-administrativo se encuadra en el:",
+                        "options": [
+                            "a) Juzgado de lo Social.",
+                            "b) Juzgado de Primera Instancia e Instrucción.",
+                            "c) Juzgado de lo Contencioso-Administrativo.",
+                            "d) Tribunal."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "El titular del Juzgado de lo Contencioso-Administrativo, en cuanto a su funcionamiento, cuenta con la:",
+                        "options": [
+                            "a) Unidad Procesal de Apoyo Directo y con los Servicios Comunes Procesales.",
+                            "b) Unidad Procesal de Apoyo Directo.",
+                            "c) Servicios Comunes Procesales.",
+                            "d) Servicios Comunes Procesales y con una Unidad Administrativa."
+                        ],
+                        "correctAnswer": "a"
+                    }
+                ]
+            },
+            {
+                "title": "Tema 12",
+                "questions": [
+                    {
+                        "question": "Los Letrados de la Administración de Justicia son funcionarios públicos que constituyen un Cuerpo Superior Jurídico, único, de carácter nacional, dependiente:",
+                        "options": [
+                            "a) Del Consejo General del Poder Judicial.",
+                            "b) Del Ministerio de Justicia.",
+                            "c) De la Comunidades autónomas con competencias transferidas.",
+                            "d) Del Consejo del Secretariado."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Indique cuál de los siguientes puestos de trabajo a desempeñar por los Letrados de la Administración de Justicia se integra en el grupo segundo:",
+                        "options": [
+                            "a) Secretario del Gabinete Técnico del Tribunal Supremo",
+                            "b) Secretario de Sala del Tribunal Supremo",
+                            "c) Secretario Coordinador Provincial",
+                            "d) Secretario de Sala de los Tribunales Superiores de Justicia"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "El sistema ordinario de ingreso en el Cuerpo de Letrado de la Administración de Justicia será",
+                        "options": [
+                            "a) Oposición",
+                            "b) Libre designación",
+                            "c) Concurso",
+                            "d) Concurso-oposición libre"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "El porcentaje de plazas vacantes del Cuerpo de Letrados de la Administración de Justicia, que se reservarán para su provisión por promoción interna será:",
+                        "options": [
+                            "a) El 20 por ciento.",
+                            "b) El 40 por ciento.",
+                            "c) El 50 por ciento.",
+                            "d) El 30 por ciento."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "De acuerdo con el Reglamento Orgánico del Cuerpo de Secretarios Judiciales (hoy Letrados de la Administración de Justicia), los aspirantes que hayan superado las pruebas selectivas serán nombrados funcionarios en prácticas y tendrán que llevar a cabo un periodo de aprendizaje teórico-práctico por un tiempo de:",
+                        "options": [
+                            "a) No superior a dos meses.",
+                            "b) No inferior a un mes.",
+                            "c) No inferior a dos meses.",
+                            "d) No superior a tres meses."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Quienes adquieran la condición de Letrado de la Administración de Justicia, prestarán juramento o promesa de cumplir fielmente las obligaciones del cargo y guardar y hacer guardar la Constitución como norma fundamental",
+                        "options": [
+                            "a) ante el Ministro de Justicia",
+                            "b) ante el Secretario Coordinador Provincial a cuyo territorio hayan sido destinados",
+                            "c) ante el Secretario de Gobierno del Tribunal Superior de Justicia a cuyo territorio hayan sido destinados",
+                            "d) en la Oficina judicial a la que hubiere sido destinado ante el Letrado de la Administración de Justicia que estuviere ejerciendo el cargo"
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "La condición de Letrado de la Administración de Justicia se pierde:",
+                        "options": [
+                            "a) Por la incoación de proceso penal por hechos dolosos cometidos en el ejercicio de sus funciones.",
+                            "b) Por no tomar posesión dentro del plazo establecido.",
+                            "c) Por dictarse contra él auto de procesamiento.",
+                            "d) Por renuncia voluntaria manifestada por escrito y aceptada expresamente por el Ministerio de Justicia."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Los funcionarios del Cuerpo de Letrados de la Administración de Justicia tendrán iguales derechos individuales, colectivos y deberes que:",
+                        "options": [
+                            "a) Jueces y Magistrados.",
+                            "b) Los fiscales.",
+                            "c) Los funcionarios al servicio de la Administración de Justicia.",
+                            "d) Ninguna es correcta."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Procederá declarar en la situación de excedencia voluntaria a los Letrados de la Administración de Justicia por interés particular, siempre que hayan prestado servicios en dicho Cuerpo durante:",
+                        "options": [
+                            "a) los 2 años inmediatamente anteriores, sin que en esta situación se pueda permanecer menos de 5 años",
+                            "b) los 5 años inmediatamente anteriores, sin que en esta situación se pueda permanecer menos de 2 años",
+                            "c) los 5 años inmediatamente anteriores, sin que en esta situación se pueda permanecer menos de 3 años",
+                            "d) los 2 años inmediatamente anteriores, sin que en esta situación se pueda permanecer menos de 2 años"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Según el artículo 3 del Reglamento de los Letrados de la Administración de Justicia, los mismos en el ejercicio de la fe pública judicial actuarán:",
+                        "options": [
+                            "a) Con legalidad y dependencia jerárquica.",
+                            "b) Con autonomía e independencia.",
+                            "c) Con legalidad y parcialidad jerárquica.",
+                            "d) Con unidad de actuación y dependencia jerárquica."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "De acuerdo con su Reglamento Orgánico, los Letrados de la Administración de Justicia, podrán expedir certificaciones sobre actuaciones judiciales declaradas secretas:",
+                        "options": [
+                            "a) No, salvo que las partes no se opongan a ello.",
+                            "b) No, salvo que el Juez o Magistrado expresamente lo autorice.",
+                            "c) No, en ningún caso.",
+                            "d) Sí, en cualquier caso."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "La determinación de los libros de registro que han de existir en los Juzgados y Tribunales de conformidad con lo dispuesto en la LOPJ corresponde:",
+                        "options": [
+                            "a) A Jueces y Magistrados del Juzgado o Tribunal correspondiente.",
+                            "b) Al Ministerio de Justicia.",
+                            "c) Al Letrado de la Administración de Justicia del Juzgado o Tribunal correspondiente.",
+                            "d) Al Secretario de Gobierno."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Organizar la dación de cuenta, según establece el art. 455 LOPJ…",
+                        "options": [
+                            "a) Será responsabilidad del Letrado de la Administración de Justicia",
+                            "b) Será responsabilidad del Juez o Magistrado",
+                            "c) Será función del Consejo General del Poder Judicial",
+                            "d) Será función de la Sala de Gobierno del respectivo Tribunal Superior de Justicia"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Los Letrados de la Administración de Justicia cuando así lo prevean las leyes procesales tendrán competencias en materia de jurisdicción voluntaria:",
+                        "options": [
+                            "a) asumiendo solo su tramitación sin perjuicio de los recursos que quepa interponer.",
+                            "b) asumiendo su tramitación, resolución, y decisión de cualquier recurso que quepa interponer.",
+                            "c) asumiendo su tramitación y resolución, sin perjuicio de los recursos que quepa interponer.",
+                            "d) solo si no hay contienda entre las partes."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Los Secretarios de Gobierno serán elegidos por un plazo de:",
+                        "options": [
+                            "a) 5 años.",
+                            "b) 10 años.",
+                            "c) 5 años renovable por periodos iguales, no pudiendo ocupar más de 10 años el mismo puesto.",
+                            "d) 5 años renovable por periodos iguales."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "En todos los nombramientos de los Secretarios de Gobierno se recabará informe:",
+                        "options": [
+                            "a) Del Ministerio de Justicia.",
+                            "b) Del Consejo del Secretariado.",
+                            "c) Del órgano competente de la Comunidad Autónoma respectiva.",
+                            "d) Del Consejo General del Poder Judicial."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "En caso de ausencia, enfermedad, suspensión o vacante del Secretario de Gobierno del Tribunal Supremo, asumirá sus funciones:",
+                        "options": [
+                            "a) El Secretario de mayor antigüedad escalafonal",
+                            "b) El Vicesecretario de Gobierno",
+                            "c) El Secretario de mayor edad.",
+                            "d) El Secretario Coordinador de la provincia"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "En caso de ausencia, enfermedad, suspensión o vacante del Secretario de Gobierno del Tribunal Supremo, asumirá sus funciones:",
+                        "options": [
+                            "a) El Secretario de mayor antigüedad escalafonal",
+                            "b) El Vicesecretario de Gobierno",
+                            "c) El Secretario de mayor edad.",
+                            "d) El Secretario Coordinador de la provincia"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Los Secretarios de Gobierno que cesen quedarán adscritos hasta la obtención de un puesto de trabajo con carácter definitivo:",
+                        "options": [
+                            "a) a elección del Secretario General de la Administración de Justicia, a la audiencia o tribunal en el que cesen o a la oficina judicial de la localidad de procedencia, o Audiencia Provincial si no hubiera tal vacante.",
+                            "b) a su elección, al Tribunal o Audiencia en el que cesen, a puesto de trabajo de su categoría personal en cualquier Oficina judicial de la localidad de procedencia si hubiera vacante, o a la Audiencia Provincial de su ciudad de procedencia si hubiera vacante.",
+                            "c) a elección del Ministerio de Justicia, a la Audiencia o Tribunal en el que cesen o a la oficina judicial de la localidad de procedencia, o Audiencia Provincial si no hubiera tal vacante.",
+                            "d) a elección de la Sala de Gobierno del Tribunal correspondiente, a la Audiencia o Tribunal en el que cesen o a la oficina judicial de la localidad de procedencia, o Audiencia Provincial si no hubiera tal vacante."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Para ser nombrado Secretario Coordinador, se deberá contar con",
+                        "options": [
+                            "a) al menos 5 años de antigüedad en la segunda categoría",
+                            "b) al menos 10 años en el Cuerpo, y como mínimo hayan estado 5 años en puestos de segunda categoría",
+                            "c) al menos 10 años en puestos de segunda categoría",
+                            "d) al menos 10 años de antigüedad."
+                        ],
+                        "correctAnswer": "b"
+                    }
+                ]
+            },
+            {
+                "title": "Tema 13",
+                "questions": [
+                    {
+                        "question": "Los Cuerpos de funcionarios al servicio de la Administración de Justicia, tienen el carácter de",
+                        "options": [
+                            "a) Cuerpos Nacionales transferidos a las Comunidades autónomas, y están vinculados a la Administración de Justicia en virtud de nombramiento legal, por una relación estatutaria de carácter permanente",
+                            "b) Cuerpos Nacionales, y están vinculados a la Administración de Justicia en virtud de nombramiento legal, por una relación estatutaria de carácter permanente",
+                            "c) Cuerpos Nacionales, y están vinculados a la Administración de Justicia en virtud de nombramiento legal, por una relación laboral de carácter permanente",
+                            "d) Cuerpos Nacionales transferidos a las Comunidades autónomas, y están vinculados a la Administración de Justicia en virtud de nombramiento legal, por una relación laboral de carácter permanente"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "El personal funcionario de carrera de los Cuerpos al servicio de la Administración de Justicia se regirá por",
+                        "options": [
+                            "a) La Ley Orgánica del Poder Judicial, exclusivamente",
+                            "b) La normativa del Estado sobre Función Pública, exclusivamente",
+                            "c) La normativa del Estado sobre Función Pública y, supletoriamente, la Ley Orgánica del Poder Judicial",
+                            "d) La Ley Orgánica del Poder Judicial y, supletoriamente, la normativa del Estado sobre Función Pública"
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Según la LOPJ, el Cuerpo de Gestión Procesal y Administrativa:",
+                        "options": [
+                            "a) Es un Cuerpo General.",
+                            "b) Es un Cuerpo Superior Jurídico.",
+                            "c) Es un Cuerpo Técnico.",
+                            "d) Es un Cuerpo Especial."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Para el ingreso en el Cuerpo de Facultativos del Instituto Nacional de Toxicología y Ciencias Forenses se deberá ser",
+                        "options": [
+                            "a) licenciado en Medicina",
+                            "b) licenciado en Derecho",
+                            "c) licenciado en cualquier Carrera universitaria",
+                            "d) licenciado en una carrera universitaria en Ciencias Experimentales y de la Salud, según la especialidad por la que se acceda al cuerpo"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "En relación con el Registro Central de personal funcionario al servicio de la Administración de Justicia, ¿qué datos no figurarán en el mismo?:",
+                        "options": [
+                            "a) Documento nacional de identidad.",
+                            "b) Nombre y apellidos.",
+                            "c) Tiempo de servicios en el Cuerpo",
+                            "d) Afiliación sindical"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "En relación con los funcionarios interinos…",
+                        "options": [
+                            "a) No es posible su nombramiento en la Administración de Justicia",
+                            "b) Se nombrarán siempre que exista una vacante no cubierta por un funcionario titular",
+                            "c) Se podrán nombrar por razones de urgencia o necesidad",
+                            "d) Solamente podrán nombrarse por razones de urgencia"
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "La selección de funcionarios interinos habrá de realizarse de acuerdo con los criterios objetivos que se fijen por:",
+                        "options": [
+                            "a) el Ministerio de Justicia, mediante orden, en todo caso.",
+                            "b) el Ministerio de Justicia, mediante orden, oídas las comunidades autónomas que hayan recibidos los traspasos de medios personales.",
+                            "c) el Ministerio de Justicia, mediante orden o, en su caso, la disposición de la Comunidad Autónoma que haya recibido los traspasos.",
+                            "d) el Consejo General del Poder Judicial, mediante Reglamento."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "¿Cómo se denomina el órgano de cooperación entre la Administración General del Estado y las Administraciones de las Comunidades Autónomas con competencias asumidas en materia de provisión de medios materiales, económicos y personales necesarios para la Administración de Justicia?",
+                        "options": [
+                            "a) Consejo General de Administración de Justicia",
+                            "b) Conferencia Sectorial de Administración de Justicia",
+                            "c) Mesa para la Cooperación y Coordinación de la Administración de Justicia",
+                            "d) Comisión de Administración de Justicia"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "El Art. 475.b de la Ley Orgánica del Poder Judicial, determina que el Cuerpo de Médicos Forenses es:",
+                        "options": [
+                            "a) Un Cuerpo General de Funcionarios al servicio de la Administración de Justicia.",
+                            "b) Un Cuerpo Especial de Funcionarios al servicio de la Administración de Justicia.",
+                            "c) Un Cuerpo Facultativo de Funcionarios al servicio de la Administración de Justicia.",
+                            "d) No es un Cuerpo de la Administración de Justicia."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "En qué Libro de la LOPJ se encuentra la regulación legal del Cuerpo de Médicos Forenses:",
+                        "options": [
+                            "a) Libro VI",
+                            "b) Libro V",
+                            "c) Libro VII",
+                            "d) Libro IV"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "¿Cuál de las siguientes funciones es competencia del Médico Forense?:",
+                        "options": [
+                            "a) Expedir certificados de defunción en todos los casos de fallecimiento.",
+                            "b) Realizar autopsias en todos los casos de fallecimiento.",
+                            "c) Realizar análisis e investigaciones interesadas por organismos o empresas públicas en cuestiones que afecten al interés general.",
+                            "d) La emisión de informes y dictámenes a solicitud del Registro Civil, en los supuestos y condiciones que determine su legislación específica."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "En relación con los Médicos Forenses en activo, señale la respuesta incorrecta:",
+                        "options": [
+                            "a) tendrán la consideración de autoridad cuando actúen en el ejercicio de su cargo",
+                            "b) podrán desempeñar cargos públicos electivos",
+                            "c) ejercerán libremente el derecho de sindicación de acuerdo con lo previsto en la legislación general del Estado para funcionarios públicos",
+                            "d) ejercerán el derecho de huelga de acuerdo a lo establecido en la legislación general del Estado para funcionarios públicos"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Señale la respuesta incorrecta: Los médicos forenses son funcionarios de carrera que desempeñan funciones de asistencia técnica a",
+                        "options": [
+                            "a) Las Oficinas del Registro Civil",
+                            "b) Los Juzgados y Tribunales",
+                            "c) Las Fiscalías",
+                            "d) La Policía"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "En relación con los Médicos Forenses, excepcionalmente, podrá autorizarse la compatibilidad para:",
+                        "options": [
+                            "a) La función de médico de empresa, de entidades aseguradoras o el desempeño de empleos en dichas entidades.",
+                            "b) El asesoramiento científico o técnico en supuestos concretos",
+                            "c) El desempeño de cargos públicos electivos.",
+                            "d) La intervención como particulares en los casos que pudieran tener relación con sus funciones"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "La jubilación forzosa de los médicos forenses se producirá al cumplir la edad legalmente establecida de…:",
+                        "options": [
+                            "a) 65 años de edad. No obstante, podrán prolongar voluntariamente su permanencia en el servicio activo, como máximo hasta que cumplan 70 años de edad",
+                            "b) 70 años de edad",
+                            "c) 60 años de edad. No obstante, podrán prolongar voluntariamente su permanencia en el servicio activo, como máximo hasta que cumplan 65 años de edad",
+                            "d) 60 años de edad. No obstante, podrán prolongar voluntariamente su permanencia en el servicio activo, como máximo hasta que cumplan 70 años de edad"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "En relación con los médicos forenses señale la respuesta incorrecta:",
+                        "options": [
+                            "a) tendrán la consideración de autoridad cuando actúen en el ejercicio de su cargo",
+                            "b) usarán como distintivo una medalla de oro con sujeción al diseño aprobado por el Ministerio de Justicia o, en su caso, por el órgano competente de la Comunidad Autónoma que haya recibido los traspasos de medios personales para el funcionamiento de la Administración de Justicia",
+                            "c) le será expedido por el Ministerio de Justicia o, en su caso, por el órgano competente de la Comunidad Autónoma el documento de identificación correspondiente",
+                            "d) Los médicos forenses estarán destinados en un Instituto de Medicina Legal y Ciencias Forenses o en el Instituto Nacional de Toxicología y Ciencias Forenses"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Los Médicos Forenses, cuando actúen en el ejercicio de su cargo, tendrán la consideración de:",
+                        "options": [
+                            "a) Autoridad",
+                            "b) Agente de la autoridad",
+                            "c) Policía Judicial",
+                            "d) Ninguna de las anteriores es correcta"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Señale la respuesta correcta",
+                        "options": [
+                            "a) Existirá un Instituto de Medicina Legal en cada ciudad donde tenga su sede un Tribunal Superior de Justicia.",
+                            "b) El Gobierno, a propuesta del Ministerio de Justicia, previa petición, en su caso, de una Comunidad Autónoma con competencia en la materia, podrá autorizar que dicha sede sea la de la capitalidad administrativa de la Comunidad Autónoma, cuando sea distinta de la del Tribunal Superior de Justicia.",
+                            "c) El Gobierno podrá autorizar, previa petición, en su caso, de una Comunidad Autónoma con competencia en la materia, el establecimiento de Institutos de Medicina Legal y Ciencias Forenses en las restantes ciudades del ámbito territorial del Tribunal Superior de Justicia de que se trate, con el ámbito de actuación que se determine",
+                            "d) Todas las respuestas anteriores son correctas."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Orgánicamente, los Médicos Forenses, dependen de:",
+                        "options": [
+                            "a) Los Juzgados, Tribunales, Fiscalías y Oficinas del Registro Civil",
+                            "b) El Ministerio de Justicia",
+                            "c) Los Institutos de Medicina Legal",
+                            "d) Las Comunidades Autónomas"
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "La asistencia técnica en las materias de sus disciplinas profesionales a autoridades judiciales, gubernativas, al Ministerio Fiscal y a los Médicos Forenses, en el curso de las actuaciones judiciales o en las diligencias previas de investigación, corresponde:",
+                        "options": [
+                            "a) A los Directores de los Institutos de Medicina Legal.",
+                            "b) A los Ayudantes de Laboratorio del Instituto Nacional de Toxicología y Ciencias Forenses.",
+                            "c) A los Facultativos del Instituto Nacional de Toxicología y Ciencias Forenses.",
+                            "d) A los Técnicos Especialistas de Laboratorio del Instituto Nacional de Toxicología y Ciencias Forenses"
+                        ],
+                        "correctAnswer": "c"
+                    }
+                ]
+            },
+            {
+                "title": "Tema 14",
+                "questions": [
+                    {
+                        "question": "El registro y la clasificación de la correspondencia es función que corresponde al:",
+                        "options": [
+                            "a) Cuerpo de Letrados de la Administración de Justicia",
+                            "b) Cuerpo de Gestión Procesal y Administrativa",
+                            "c) Cuerpo de Tramitación Procesal y Administrativa",
+                            "d) Cuerpo de Auxilio Judicial"
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Según el artículo 477 LOPJ, corresponde al cuerpo de Tramitación Procesal y Administrativa:",
+                        "options": [
+                            "a) Practicar y firmar las comparecencias que efectúen las partes en relación con los procedimientos que se sigan en el órgano judicial, respecto a las cuales tendrán capacidad de certificación.",
+                            "b) Velar por las condiciones de utilización de las salas de vistas y mantener el orden en las mismas.",
+                            "c) La formación de autos y expedientes, bajo la supervisión del superior jerárquico.",
+                            "d) Realizar las tareas de registro, recepción y distribución de escritos y documentos, relativos a asuntos que se estuvieran tramitando en Juzgados y Tribunales."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Qué funcionario de la Administración de Justicia puede actuar como Policía Judicial con el carácter de agente de la autoridad:",
+                        "options": [
+                            "a) Cuerpo de Letrados de la Administración de Justicia",
+                            "b) Cuerpo de Gestión Procesal y Administrativa",
+                            "c) Cuerpo de Tramitación Procesal y Administrativa",
+                            "d) Cuerpo de Auxilio Judicial"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Las necesidades de recursos humanos en la Administración de Justicia serán objeto de:",
+                        "options": [
+                            "a) Una única oferta de empleo público anual, elaborada por el Ministerio de Justicia.",
+                            "b) Una o varias ofertas de empleo público anuales elaborada por el Ministerio de Administraciones Públicas.",
+                            "c) Una oferta de empleo público anual elaborada por el Ministerio de Administraciones Públicas.",
+                            "d) Una o varias ofertas de empleo público anuales elaboradas por el Ministerio de Justicia y las Comunidades Autónomas con traspasos recibidos."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "En las ofertas de empleo público para ingreso en los Cuerpos de Funcionarios al Servicio de la Administración de Justicia, en relación con las personas con discapacidad, se reservará…",
+                        "options": [
+                            "a) Para los que tengan un grado igual o superior al 33%, el 5% de las plazas.",
+                            "b) Para los que tengan un grado igual o superior al 33%, el 7% de las plazas.",
+                            "c) Para los que tengan un grado superior al 33%, el 5% de las plazas.",
+                            "d) Para los que tengan un grado superior al 33%, el 7% de las plazas."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Las pruebas selectivas para el ingreso en el Cuerpo de Tramitación Procesal se convocan por:",
+                        "options": [
+                            "a) Las Comunidades Autónomas con competencias asumidas, previo informe del Ministerio de Justicia.",
+                            "b) El Ministerio de Administraciones Públicas, previo informe de la Dirección General de la Función Pública.",
+                            "c) El Ministerio de Justicia, previo informe favorable del Consejo de Estado.",
+                            "d) El Ministerio de Justicia."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "En relación con las oposiciones para ingreso en los Cuerpos Generales de la Administración de Justicia, las convocatorias y sus bases serán:",
+                        "options": [
+                            "a) Únicas para los tres Cuerpos.",
+                            "b) Únicas para cada Cuerpo.",
+                            "c) Elaboradas por el Consejo General del Poder Judicial.",
+                            "d) Elaboradas por el Ministerio de Justicia."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "En los procesos selectivos para acceso al Cuerpo de Gestión Procesal y Administrativa, se atribuye a la Comisión de Selección de Personal:",
+                        "options": [
+                            "a) la elaboración de los temarios",
+                            "b) la elaboración de las bases de convocatoria",
+                            "c) la aprobación de los temarios",
+                            "d) todas son correctas"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Según el artículo 486 de la ley Orgánica del Poder Judicial, la elaboración de los temarios y de las bases de convocatoria por las que han de regirse los procesos selectivos para ingreso en los Cuerpos de funcionarios, se encomendará a una Comisión de Selección de Personal, que estará formada por:",
+                        "options": [
+                            "a) Ocho miembros.",
+                            "b) Cuatro miembros.",
+                            "c) Cinco miembros.",
+                            "d) Nueve miembros."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Las pruebas que se establezcan para el conocimiento de la lengua autonómica y del derecho civil foral o especial serán:",
+                        "options": [
+                            "a) optativas y, en determinados casos, serán eliminatorias.",
+                            "b) optativas y, en todo caso, serán eliminatorias.",
+                            "c) optativas y, en ningún caso, serán eliminatorias.",
+                            "d) obligatorias y eliminatorias."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Concluido el proceso selectivo, la condición de funcionario de carrera se adquirirá con la toma de posesión del primer destino, que tendrá lugar en el plazo de:",
+                        "options": [
+                            "a) veinte días hábiles desde el día siguiente al de la publicación de su nombramiento en el «Boletín Oficial del Estado»",
+                            "b) veinte días naturales desde el día siguiente al de la publicación de su nombramiento en el «Boletín Oficial del Estado»",
+                            "c) diez días naturales desde el día siguiente al de la publicación de su nombramiento en el «Boletín Oficial del Estado»",
+                            "d) diez días hábiles desde el día siguiente al de la publicación de su nombramiento en el «Boletín Oficial del Estado»"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "La promoción interna a los Cuerpos de Tramitación y Gestión se efectuará mediante:",
+                        "options": [
+                            "a) sistema de concurso-oposición",
+                            "b) concurso de méritos",
+                            "c) oposición",
+                            "d) ascenso por escalafón"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "¿Qué periodo mínimo debe transcurrir a partir de la firmeza del acuerdo de separación del servicio para que un funcionario del Cuerpo de Auxilio Judicial pueda solicitar la apertura del expediente de rehabilitación?",
+                        "options": [
+                            "a) Un año.",
+                            "b) Dos años.",
+                            "c) Tres años.",
+                            "d) Cinco años."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "No podrán ser rehabilitados en su condición de funcionarios de Tramitación Procesal y Administrativa…",
+                        "options": [
+                            "a) Los funcionarios que hubiesen perdido la condición de tales como consecuencia de la pérdida de la nacionalidad española una vez recuperada ésta",
+                            "b) Los funcionarios que hubiesen perdido la condición de tales como consecuencia de la incapacidad permanente para el servicio una vez desaparecida la causa objetiva que la motivó",
+                            "c) Quienes hubiesen perdido la condición de funcionario a consecuencia de la imposición con carácter firme de inhabilitación absoluta una vez extinguidas sus responsabilidades civiles y penales",
+                            "d) Los funcionarios que se hubiesen jubilado voluntariamente, si lo solicitan antes de cumplir la edad de jubilación forzosa"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Los Funcionarios de la Administración de Justicia están obligados, conforme a la LOPJ, a:",
+                        "options": [
+                            "a) Dar cuenta a las autoridades competentes de todas aquellas órdenes que reciban de Jueces y Magistrados",
+                            "b) Tratar con atención y respeto a los ciudadanos",
+                            "c) Al mantenimiento de su condición funcionarial hasta la jubilación forzosa",
+                            "d) La formación necesaria, inicial y continuada, con el fin de mejorar sus capacidades profesionales"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Son actividades, en todo caso incompatibles, para los funcionarios de los Cuerpos Generales de la Administración de Justicia:",
+                        "options": [
+                            "a) la actividad de profesor universitario asociado en régimen de dedicación no superior a la de tiempo parcial y con duración determinada",
+                            "b) el desempeño de los cargos de gerentes, consejeros o asesores de empresas que persigan fines lucrativos",
+                            "c) el ejercicio de actividades de investigación de carácter no permanente",
+                            "d) el ejercicio de actividades de asesoramiento científico o técnico en supuestos concretos"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Son retribuciones complementarias fijas de los funcionarios de los Cuerpos Generales al Servicio de la Administración de Justicia:",
+                        "options": [
+                            "a) El sueldo, la antigüedad, el complemento general del puesto y el complemento de productividad",
+                            "b) Las guardias",
+                            "c) El complemento general de puesto, el complemento específico y el complemento de carrera profesional.",
+                            "d) El complemento de productividad y las gratificaciones"
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "¿A cuántos días de jornada reducida, por fiestas locales, tienen cada año derecho los funcionarios de la Administración de Justicia?",
+                        "options": [
+                            "a) Ninguno",
+                            "b) 5 días",
+                            "c) 3 días",
+                            "d) 2 días"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Por intervención quirúrgica sin hospitalización que precise de reposo domiciliario de un familiar dentro del segundo grado de consanguinidad o afinidad que se produzca en la misma localidad, el funcionario tendrá derecho a un permiso de:",
+                        "options": [
+                            "a) 5 días hábiles",
+                            "b) 3 días hábiles",
+                            "c) 4 días hábiles",
+                            "d) 2 días hábiles"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "El funcionario de Auxilio Judicial, por razones de guarda legal, cuando el funcionario tenga el cuidado directo de algún menor de 12 años, de persona mayor que requiera especial dedicación, o de una persona con discapacidad que no desempeñe actividad retribuida, tendrá derecho a:",
+                        "options": [
+                            "a) la reducción de su jornada de trabajo, con la disminución de sus retribuciones que corresponda",
+                            "b) la reducción de su jornada de trabajo, sin disminución de sus retribuciones corresponda",
+                            "c) una hora de ausencia del trabajo que podrá dividir en dos fracciones",
+                            "d) ausentarse del trabajo durante un máximo de dos horas diarias percibiendo las retribuciones íntegras"
+                        ],
+                        "correctAnswer": "a"
+                    }
+                ]
+            },
+            {
+                "title": "Tema 15",
+                "questions": [
+                    {
+                        "question": "Los cambios de situación administrativa del personal al servicio de la Administración de Justicia:",
+                        "options": [
+                            "a) Solo se pueden realizar previo reingreso al servicio activo",
+                            "b) Se pueden realizar sin necesidad de reingreso al servicio activo, excepto en el caso de excedencia voluntaria por interés particular, en que sí es necesario el previo reingreso al servicio activo.",
+                            "c) Se pueden realizar sin necesidad de reingreso al servicio activo, excepto en el caso de excedencia voluntaria por prestación de servicios en el sector público, en que sí es necesario el previo reingreso al servicio activo.",
+                            "d) Se pueden realizar sin necesidad de reingreso al servicio activo siempre que se reúnan los requisitos exigidos en cada caso."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Entre las situaciones administrativas contempladas en el artículo 506 de la LOPJ no se encuentra:",
+                        "options": [
+                            "a) Servicios especiales.",
+                            "b) Comisión de servicios.",
+                            "c) Excedencia voluntaria por agrupación familiar.",
+                            "d) Suspensión de funciones."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Los Funcionarios al Servicio de la Administración de Justicia, con carácter general que se encuentren en la situación de servicios especiales, tendrán derecho a:",
+                        "options": [
+                            "a) La reserva de su puesto de trabajo por un periodo máximo de un año.",
+                            "b) La reserva de su puesto de trabajo durante los seis primeros meses.",
+                            "c) Reserva de un puesto de trabajo en la misma localidad, en condiciones y con retribuciones similares a las que disfrutaba al pasar a dicha situación.",
+                            "d) Reserva de su puesto de trabajo todo el tiempo que permanezca en ella, salvo que participasen en concurso para la obtención de otro puesto de trabajo."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Los funcionarios, para atender al cuidado de un familiar que se encuentre a su cargo, hasta el segundo grado, tendrán derecho a un período de excedencia y ¿a la reserva del puesto de trabajo que desempeñaban?",
+                        "options": [
+                            "a) Sí, durante todo el tiempo de la excedencia",
+                            "b) Sí, durante al menos dos años",
+                            "c) Sí, durante los seis primeros meses",
+                            "d) Sí, durante el primer año."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Al funcionario, para poder acceder a la excedencia por agrupación familiar, se le exige que haya prestado servicios efectivos durante…",
+                        "options": [
+                            "a) Un año",
+                            "b) Dos años",
+                            "c) Tres años",
+                            "d) No se exige que haya prestado servicios efectivos"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Los funcionarios que se encuentren en excedencia voluntaria por encontrarse en servicio activo en otro cuerpo o escala de cualquiera de las Administraciones públicas se rigen por la legislación",
+                        "options": [
+                            "a) de la Administración de Justicia",
+                            "b) de la Administración en la que estén destinados de forma efectiva",
+                            "c) de la Administración de Justicia o de la Administración en la que estén destinados de forma efectiva, según hayan optado al pasar a la situación de excedencia",
+                            "d) de la Administración que les resulte más favorable"
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "A efectos de las relaciones de puestos de trabajo, los tipos de puesto se clasificarán en:",
+                        "options": [
+                            "a) Genéricos y singularizados.",
+                            "b) Genéricos y específicos.",
+                            "c) Generales y específicos.",
+                            "d) Generales y singularizados."
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Según el artículo 49.6 del Real Decreto 1451/2005, de 7 de diciembre, por el que se aprueba el Reglamento de Ingreso, Provisión de Puestos de Trabajo y Promoción Profesional del Personal Funcionario al Servicio de la Administración de Justicia, el plazo de presentación de solicitudes de un concurso específico será de:",
+                        "options": [
+                            "a) Diez días naturales.",
+                            "b) Diez días hábiles.",
+                            "c) Veinte días naturales.",
+                            "d) El que se establezca en la convocatoria."
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Señale la respuesta correcta: mediante el procedimiento de libre designación se cubrirán los puestos",
+                        "options": [
+                            "a) de trabajo singularizados",
+                            "b) de trabajo genéricos",
+                            "c) de trabajo vacantes, hasta tanto se resuelvan mediante los respectivos sistemas de provisión",
+                            "d) directivos y aquellos para los que, por su especial responsabilidad y dedicación, así se establezca en las relaciones de puestos de trabajo"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Conforme a lo establecido en la LOPJ, los funcionarios a los que se sancione con traslado forzoso por una falta muy grave, no podrán obtener nuevo destino en el municipio de origen durante:",
+                        "options": [
+                            "a) Un año.",
+                            "b) Dos años.",
+                            "c) Tres años.",
+                            "d) Cuatro años."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "El puesto de trabajo al que se accede a través de redistribución de efectivos tiene el carácter de:",
+                        "options": [
+                            "a) Provisional",
+                            "b) Definitivo",
+                            "c) Comisión de Servicios",
+                            "d) Permanente"
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Los puestos de trabajo vacantes o en caso de ausencia de su titular podrán ser provistos temporalmente",
+                        "options": [
+                            "a) Mediante sustitución",
+                            "b) Mediante nombramiento de funcionarios interinos",
+                            "c) Por comisión de servicio",
+                            "d) Todos son correctos"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Podrán ser adscritos provisionalmente a un puesto de trabajo correspondiente a su cuerpo, los funcionarios de carrera",
+                        "options": [
+                            "a) Que no obtengan plaza en un concurso de traslado",
+                            "b) Que reingresen al servicio activo desde situaciones que no comportaran reserva de puesto de trabajo",
+                            "c) Que reingresen al servicio activo desde situaciones que comporten reserva de puesto de trabajo",
+                            "d) Que sean suspendidos provisionalmente"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Con motivo de un concurso de traslados de funcionarios al servicio de la Administración de Justicia, en la valoración de méritos para la adjudicación de los puestos de trabajo:",
+                        "options": [
+                            "a) Por cada año de servicios efectivos se otorgará un punto",
+                            "b) Por el conocimiento oral y escrito de una lengua oficial autonómica se otorgarán en su caso hasta 12 puntos",
+                            "c) Por antigüedad o tiempo prestado de servicios efectivos se valorará como máximo hasta 50 puntos",
+                            "d) Se tomará como fecha a efectos de valoración la de publicación del concurso"
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "El plazo de toma de posesión en los concursos genéricos y específicos será:",
+                        "options": [
+                            "a) de 3 días si implica cambio de localidad dentro de la misma provincia",
+                            "b) de 8 días si implica cambio de localidad dentro de la misma comunidad autónoma",
+                            "c) de 1 día si no implica cambio de localidad",
+                            "d) de 20 días si implica cambio de localidad y de provincia dentro de la misma comunidad autónoma"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Durante la tramitación de un expediente disciplinario, acordada la suspensión provisional del funcionario, ésta no podrá durar más de:",
+                        "options": [
+                            "a) tres meses, salvo en caso de paralización del procedimiento imputable al interesado",
+                            "b) seis meses, en cualquier caso",
+                            "c) seis meses, salvo en caso de paralización del procedimiento imputable a la administración",
+                            "d) seis meses, salvo en caso de paralización del procedimiento imputable al interesado"
+                        ],
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "En la tramitación del procedimiento disciplinario, cumplimentadas las diligencias, el instructor pondrá de manifiesto el expediente al interesado con carácter inmediato para que alegue lo que estime pertinente a su defensa y aporte cuantos documentos considere de interés en el plazo de",
+                        "options": [
+                            "a) 5 días",
+                            "b) 10 días",
+                            "c) 15 días",
+                            "d) 20 días"
+                        ],
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "En el régimen disciplinario aplicable a los funcionarios al servicio de la Administración de Justicia, tiene la consideración de falta grave:",
+                        "options": [
+                            "a) El incumplimiento grave de las decisiones judiciales cuya ejecución tengan encomendada.",
+                            "b) La realización de actividades declaradas incompatibles con la ley.",
+                            "c) Promover su abstención de forma claramente injustificada.",
+                            "d) La utilización de la condición de funcionario para la obtención de un beneficio indebido para sí o para un tercero."
+                        ],
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "La LOPJ preceptúa que la sanción de cese en el puesto de trabajo:",
+                        "options": [
+                            "a) Solo será aplicable a los funcionarios interinos por comisión de faltas graves o muy graves.",
+                            "b) Solo será aplicable a los funcionarios por comisión de faltas leves.",
+                            "c) Solo será aplicable al personal laboral por comisión de faltas graves o muy graves.",
+                            "d) Solo será aplicable a los funcionarios interinos por faltas leves."
+                        ],
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Según el artículo 540 de la LOPJ, en el caso de las faltas leves, las sanciones impuestas prescribirán:",
+                        "options": [
+                            "a) A los tres meses.",
+                            "b) A los cuatro meses.",
+                            "c) A los seis meses.",
+                            "d) Al año."
+                        ],
+                        "correctAnswer": "b"
+                    }
+                ]
+            }
+        ]
+    }
+]
